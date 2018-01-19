@@ -73,7 +73,7 @@ Dans ce tutoriel, il y a quelques mots que j'utiliserai à plusieurs reprises, a
 
 **Commit :** C'est la commande qui donne à Git toute sa puissance. Quand vous "committez", vous prenez un "instantané", une "photo" de votre dépôt à ce stade, vous donnant un point de contrôle que vous pouvez ensuite réévaluer ou restaurer votre projet à un état précédent.
 
-**Branche :** Comment plusieurs personnes travaillant sur un projet en même temps sans que Git ne s'embrouille ? Habituellement, elles se "débranchent" du projet principal avec leurs propres versions complètes des modifications qu'elles ont chacune produites de leur côté. Après avoir terminé, il est temps de "fusionner" cette branche pour la ramener vers la branche  "master", le répertoire principal du projet.
+**Branche :** Comment faire travailler plusieurs personnes sur un projet en même temps sans que Git ne s'embrouille ? Habituellement, elles se "débranchent" du projet principal avec leurs propres versions complètes des modifications qu'elles ont chacune produites de leur côté. Après avoir terminé, il est temps de "fusionner" cette branche pour la ramener vers la branche  "master", le répertoire principal du projet.
 
 ## Commandes Spécifiques Git
 
@@ -87,7 +87,7 @@ Le fait que Git ait été conçu avec un grand projet comme Linux, il existe bea
 
 `git status` : Vérifie le statut de votre repository. Voir quels fichiers sont à l'intérieur, quelles sont les modifications à _commiter_, et sur quelle branche du repository vous êtes en train de travailler.
 
-`git add` : Ceci n'ajoute *pas* de nouveaux fichiers dans votre repository. Au lieu de cela, cela porte de nouveaux fichiers à l'attention de Git. Après avoir ajouté des fichiers, ils sont inclus dans les "instantanés" du dépôt Git.
+`git add` : Ceci n'ajoute *pas* de nouveaux fichiers dans votre repository. Au lieu de cela, ceci porte de nouveaux fichiers à l'attention de Git. Après avoir ajouté des fichiers, ils sont inclus dans les "instantanés" du dépôt Git.
 
 `git commit` : la commande la plus importante de Git. Après avoir effectué toute sorte de modification, vous entrez ça afin de prendre un “instantané” du dépôt. Généralement cela s'écrit sous la forme `git commit -m “Message ici“`. Le -m indique que la section suivante de la commande devrait être lue comme un message.
 
@@ -95,7 +95,7 @@ Le fait que Git ait été conçu avec un grand projet comme Linux, il existe bea
 
 `git checkout` : Permet littéralement de vérifier un dépôt dans lequel vous n'êtes pas. C'est une commande de navigation qui vous permet de vous déplacer vers le répertoire que vous voulez vérifier. Vous pouvez utiliser cette commande sous la forme `git checkout master` pour regarder la branche master, ou `git checkout chats` pour regarder une autre branche.
 
-`git merge` : Lorsque vous avez fini de travailler sur une branche, vous pouvez fusionner vos modifications vers la branche master, qui est visible pour tous les collaborateurs. `git merge chats` prendrait toutes les modifications que vous avez apportées à la branche “cats” et les ajoutera à la la branche master.
+`git merge` : Lorsque vous avez fini de travailler sur une branche, vous pouvez fusionner vos modifications vers la branche master, qui est visible pour tous les collaborateurs. `git merge chats` prendrait toutes les modifications que vous avez apportées à la branche “chats” et les ajoutera à la branche master.
 
 `git push` : Si vous travaillez sur votre ordinateur local, et voulez que vos commits soient visibles aussi en ligne sur Github, vous "push"ez les modifications vers Github avec cette commande.
 
@@ -169,7 +169,7 @@ Pour votre prochaine ligne, saisissez :
 git init
 ```
 
-Vous savez que vous utilisez une commande Git car elle démarre toujours par `git`. Init signifie "initialiser". Souvenez-vous comment les deux précédentes commandes que nous avons saisies étaient des termes généraux de ligne de commande ? Quand nous tapons ce code à l'intérieur, cela dit à l'ordinateur de reconnaître ce répertoire comme un dépôt local Git. 
+Vous savez que vous utilisez une commande Git car elle démarre toujours par `git`. Init signifie "initialiser". Souvenez-vous que les deux précédentes commandes que nous avons saisies étaient des termes généraux de ligne de commande. Quand nous tapons ce code à l'intérieur, cela dit à l'ordinateur de reconnaître ce répertoire comme un dépôt local Git. 
 Si vous ouvrez le répertoire, il ne s'affichera pas différemment, parce que ce nouveau répertoire Git est un fichier caché à l'intérieur du dépôt dédié.
 
 ![Créer un dépôt sur votre machine](/img/Terminal-Git-Creer-Repo.jpg "Créer un dépôt local Git en trois étapes.") 
