@@ -41,10 +41,10 @@
     <!-- webmention  -->
     <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
     <!-- composants indieweb  -->
-
-  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
-  <link rel="micropub" href="https://micro-pub-xtof.herokuapp.com/micropub/main" />
   <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+  <link rel="micropub" href="https://https://christopheducamp.com/micropub.php" />
+
     <title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
 </head>
 
