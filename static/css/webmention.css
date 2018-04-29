@@ -3,13 +3,14 @@
 .webmention-mention, .page-mentions .h-entry, .page-mentions .u-comment {
   padding-left: 9%;
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
-.webmention-name, .page-mentions .h-entry .p-name, .page-mentions .h-entry .p-summary,
+.webmention-name, .webmention-summary,
+.page-mentions .h-entry .p-name, .page-mentions .h-entry .p-summary,
 .page-mentions .u-comment .p-name, .page-mentions .u-comment .p-summary {
   margin: 10px 0;
 }
-.webmention-author, .webmention-summary, .page-mentions .h-card {
+.webmention-author, .page-mentions .h-card {
   font-size: .9em;
 }
 .webmention-footer, .page-mentions .h-entry footer, .page-mentions .u-comment footer {
@@ -19,6 +20,7 @@
 }
 .webmention-author img, .page-mentions .h-card img {
   position: absolute;
+  top: -5px;
   left: 0;
   width: 7%;
   border-radius: 240px;
@@ -57,8 +59,8 @@ img.webmention-error {display: none;}
   border: 1px solid #ccc;
   border-radius: 50px;
 }
-.webmention-interaction-like .webmention-interaction-presentation:after {content: "â™¥"}
-.webmention-interaction-repost .webmention-interaction-presentation:after {content: "â™º"}
+.webmention-interaction-like .webmention-interaction-presentation:after {content: "♥"}
+.webmention-interaction-repost .webmention-interaction-presentation:after {content: "♺"}
 .webmention-interaction-presentation > span {
   display: block;
   text-indent: -5000em;
