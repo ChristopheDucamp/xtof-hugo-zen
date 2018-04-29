@@ -1,5 +1,5 @@
 ---
-title: Pourquoi j'embarque sur "micro.blog"
+title: Embarquement sur "micro.blog"
 subtitle: "..."
 slug: "microblog"
 date: "2018-03-29T10:32:45+02:00"
@@ -13,45 +13,44 @@ Image : interface conversationnelle
 
 > Le problème est la domination d'un moteur de recherche, d'un grand réseau social et d'un pour le micro-blogging. Nous n'avons pas de problème technologique, nous avons un problème social (Berners-Lee, 2016)
 
-Fondamentalement, le problème de l'écosystème du web est que le choix du consommateur est de plus en plus limité. Facebook, Twitter, Google et d'autres géants chinois "possèdent" une grande partie du graphe social. Tenir le graphe leur confère le pouvoir de tenir les connexions numérique : si vous voulez vous connecter aux personnes sur l'internet, vous devez suivre leurs règles du jeu.
+Fondamentalement, le problème de l'écosystème du web est que le choix du consommateur est de plus en plus limité. Facebook, Twitter, Google et d'autres géants chinois "possèdent" une grande partie du graphe social. Tenir le graphe leur confère le pouvoir de tenir les connexions numériques : si vous voulez vous connecter aux personnes sur l'internet, vous devez suivre leurs règles du jeu.
 
-and other tech giants "own" a large part of the social graph that both powers the core digital connection goodness and sustains the momentum that they will keep owning it, due to something called Metcalfe's law. If you want to connect to people on the internet, you have to play by their rules
+La version initiale de l'internet était un réseau ouvert, avec des protocoles ouverts et des systèmes ouverts. 
+Internet Deux est constitué de plateformes fermées qui dominent de plus en plus le marché, possèdent nos contenus et conrôlent nos vies.   
+Internet Trois selon indieweb serait de reprendre le contrôle de nous-mêmes. Et c'est en train de se produire.(Inspiration Wilson, 2018) 
 
-Internet Un était un réseau ouvert, avec des protocoles ouverts et des systèmes ouverts. 
-Internet Deux est constitué de plateformes fermés qui dominent de plus en plus le marché, possèdent nos contenus et conrôlent nos vies.   
-Internet Trois selon indieweb pourrait être de reprendre le contrôle de nous-mêmes. Et c'est en train de se produire.(Inspiration Wilson, 2018) 
+## Micro.blog 
 
-Micro.blog 
 Un réseau social de microblogs indépendants. Un principe simple : Votre contenu, votre site. Vous publiez sur votre propre site, vous hébergez sur Micro.blog ou utilisez n'importe quel service pouvant éditer des flux RSS. Le texte de chaque message devrait être plutôt court (280 caractères à vérifier et sans titre) Puis ajoutez votre flux RSS à Micro.blog et tout le monde peut vous suivre. 
 
 ... une petite couche de glue qui assemble quelques éléments du web ouvert.
 définition : 
 
-D'après ce que j'ai compris, Micro.blog n'est pas un nouveau moteur de blog, mais bien un service de publication sociale. Le service n'est plus tout nouveau. Lancé en bêta le .... l'idée est que vous publiez des petits messages, ceux ci sont renvoyés via un flux RSS sur micro.blog/votrenomutilisateur. 
+D'après ce que j'ai compris, Micro.blog n'est pas un nième nouveau moteur de blog, mais bien un service de publication sociale. Le service n'est plus tout nouveau. Lancé en bêta le .... l'idée est que vous publiez des petits messages, ceux ci sont renvoyés via un flux RSS sur micro.blog/votrenomutilisateur. 
 
 Vous pouvez alors soit choisir un blog hébergé sur micro.blog à une adresse du type votrenomutilisateur.micro.blog ou utiliser votre propre nom de domaine.
 
-N'ayant pas d'iphone, je ne peux encore me prononcer sur l'application iOS faute de l'avoir essayée.
+N'ayant pas d'iphone, je ne peux encore me prononcer sur l'application iOS faute de l'avoir essayée. L'app micro.blog iOS vous permet de poster sur votre blog micro.blog ou votre proopre blog WordPress. Ou vous pouvez utiliser votre propre système. Il y a aussi un robot microblog qui postera vos posts sur Twitter.
 
-The micro.blog iOS app will post to your micro.blog blog or your own WordPress blog. Or you can use your own system. There is a microblog bot that will post your posts on to Twitter too.
+La différence entre le blog hébergé et votre flux micro.blog/username est un peu confuse pour le moment. Je me demande si un différent nom de domaine aurait aidé.
 
-The difference between the hosted blog and your micro.blog/username stream is a mite confusing at the moment. I wonder if a different domain name might have helped.
+Tant le blog hébergé et le bot twitter sont des options payantes. La doc pourra pourra vous éclairer sur le fait que vou pouvez vous héberger et pointer vers IFTTT comme alternative au bot.
 
-Both the hosted blog and the twitter bot are paid for options. The docs make it clear that you can host your own and point to IFTTT as an alternative to the bot.
+Le système suit les principes indieweb de contrôler son propre contenu et d'envoyer des copies sur d'autres espaces.
 
-The system follows the indieweb principle of controlling your own content and sending it on to other spaces.
+Les réponses sur micro.blog vers vos posts sont envoyés sous forme de webmentions vers votre propre blog et s'affichent sous forme de commentaires si vous avez installé l'extension webmention. J'ai déjà ça pour faire que les réponses twitter s'affichent sous forme de commentaires.
 
-Replies on micro.blog to your posts are sent as webmentions to your own blog and show up as comments if you have the webmention plugin installed. I had that already to get twitter replies as comments.
-My setup
+## Mon installation
 
-I’ve added a new category here, micro. I’ve edited the blog to not have posts with this category show on the home page, they show on micro instead.
+J'ai ajouté ici une nouvelle catégorie, micro. J'ai édité le blog pour qu'il n'affiche pas cette catégorie sur la page d'accueil, ils sont affichés uniquement sur micro.
 
-I set the micro.blog app to create posts with the status format in the micro category.
+J'ai paramétré l'app micro.blog pour créer des post avec le format de statut dans la catégorie micro.
 
-I turned off the jetpack social posting to Twitter function. I’ll manually post normal posts. I’ve set up a micro.blog bot to post to Twitter.
+J'ai désactivé la fonction jetpack post social vers twitter. Je posterai manuellement des posts normaux. J'ai paramatré un bot micro.blog pour poster vers Twitter.
 
-The service is very much a work in progress, and I’ve not really read the docs but I’ve noticed a few interesting things.
-titleless
+Le service est un travail en cours, et je n'ai pss vraiment lu les docs mais noté quelques points intéressants.
+
+## Sans titre
 
 On is that the posts on micro.blog consist of descriptions with no titles. When you post form the app, you get a post on your blog without a title. A post with a title on your blog is posted as a link to micro.blog. With a post without out a title the description becomes the content of the micro.blog post.
 
@@ -65,7 +64,7 @@ Alternatively I could use the code from Tweaks for micro.blog that adds dates as
 
 Or just learn to live with ‘no title’ posts in the dashboard.
 
-Me on Micro.blog
+## Moi sur Micro.blog
 
 Preparing for the microblog is a lot more coherent than this post if you are looking for setup advice.
 
