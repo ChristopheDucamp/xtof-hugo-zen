@@ -1,0 +1,68 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: aliases
+  label: Aliases
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: lastmod
+  label: Lastmod
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - 100daysofcode
+- name: bigimg
+  label: Bigimg
+  type: field_group_list
+  fields:
+  - name: src
+    label: Src
+    type: text
+    hidden: false
+    default: ''
+  - name: desc
+    label: Desc
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default:
+  - src: "/img/path.jpg"
+    desc: Sur la Route
