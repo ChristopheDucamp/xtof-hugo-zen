@@ -11,30 +11,30 @@ draft: true
 
 Image : interface conversationnelle
 
-> Le problème est la domination d'un moteur de recherche, d'un grand réseau social et d'un pour le micro-blogging. Nous n'avons pas de problème technologique, nous avons un problème social (Berners-Lee, 2016)
+> Le problème c'est la domination d'un moteur de recherche, d'un grand réseau social et d'un pour le micro-blogging. Nous n'avons pas de problème technologique, nous avons un problème social (Berners-Lee, 2016)
 
-Fondamentalement, le problème de l'écosystème du web est que le choix du consommateur est de plus en plus limité. Facebook, Twitter, Google et d'autres géants chinois "possèdent" une grande partie du graphe social. Tenir le graphe leur confère le pouvoir de tenir les connexions numériques : si vous voulez vous connecter aux personnes sur l'internet, vous devez suivre leurs règles du jeu.
+Fondamentalement, le problème de l'écosystème du web c'est que le choix du consommateur est de plus en plus limité. Facebook, Twitter, Google et d'autres géants chinois "possèdent" une grande partie du graphe social. Tenir le graphe leur confère le pouvoir de tenir les connexions numériques : si vous voulez vous connecter aux personnes sur l'internet, vous devez suivre leurs règles du jeu.
 
-La version initiale de l'internet était un réseau ouvert, avec des protocoles ouverts et des systèmes ouverts. 
-Internet Deux est constitué de plateformes fermées qui dominent de plus en plus le marché, possèdent nos contenus et conrôlent nos vies.   
-Internet Trois selon indieweb serait de reprendre le contrôle de nous-mêmes. Et c'est en train de se produire.(Inspiration Wilson, 2018) 
+La version initiale de l'internet était un réseau ouvert, avec des protocoles ouverts et des systèmes ouverts. Internet Deux s'est constitué de plateformes fermées qui dominent de plus en plus le marché, possèdent nos contenus et conrôlent nos vies.   
+Internet Trois selon l'indieweb serait de reprendre le contrôle de nous-mêmes. Et c'est en train de se produire.(Inspiration Wilson, 2018) 
 
 ## Micro.blog 
 
-Un réseau social de microblogs indépendants. Un principe simple : Votre contenu, votre site. Vous publiez sur votre propre site, vous hébergez sur Micro.blog ou utilisez n'importe quel service pouvant éditer des flux RSS. Le texte de chaque message devrait être plutôt court (280 caractères à vérifier et sans titre) Puis ajoutez votre flux RSS à Micro.blog et tout le monde peut vous suivre. 
+Un réseau social de microblogs indépendants. Un principe simple : Votre contenu, votre site. Vous publiez sur votre propre site, vous hébergez sur Micro.blog ou utilisez n'importe quel service pouvant éditer des flux RSS. Le texte de chaque message devrait être plutôt court (280 caractères à vérifier et sans titre) Puis vous ajoutez votre flux RSS à Micro.blog et tout le monde peut vous suivre. 
 
 ... une petite couche de glue qui assemble quelques éléments du web ouvert.
-définition : 
 
-D'après ce que j'ai compris, Micro.blog n'est pas un nième nouveau moteur de blog, mais bien un service de publication sociale. Le service n'est plus tout nouveau. Lancé en bêta le .... l'idée est que vous publiez des petits messages, ceux ci sont renvoyés via un flux RSS sur micro.blog/votrenomutilisateur. 
+Définition : 
+
+D'après ce que je commence à capter, Micro.blog n'est pas un nième nouveau moteur de blog, mais bien un service de publication sociale. Le service n'est plus tout nouveau. Lancé en bêta le  (à compléter), l'idée est que vous publiez des petits messages, ceux ci sont renvoyés via un flux RSS sur micro.blog/votrenomutilisateur. 
 
 Vous pouvez alors soit choisir un blog hébergé sur micro.blog à une adresse du type votrenomutilisateur.micro.blog ou utiliser votre propre nom de domaine.
 
-N'ayant pas d'iphone, je ne peux encore me prononcer sur l'application iOS faute de l'avoir essayée. L'app micro.blog iOS vous permet de poster sur votre blog micro.blog ou votre proopre blog WordPress. Ou vous pouvez utiliser votre propre système. Il y a aussi un robot microblog qui postera vos posts sur Twitter.
+N'ayant pas d'iphone, je ne peux encore me prononcer sur l'application iOS faute de l'avoir essayée. L'app micro.blog iOS vous permet de poster sur votre blog micro.blog ou votre propre blog WordPress. Ou vous pouvez utiliser votre propre système. Il existe aussi un robot microblog qui postera vos posts sur Twitter (et Medium).
 
-La différence entre le blog hébergé et votre flux micro.blog/username est un peu confuse pour le moment. Je me demande si un différent nom de domaine aurait aidé.
+La différence entre le blog hébergé et votre flux micro.blog/nomutilisateur est confuse pour le moment. Je me demande si un différent nom de domaine aurait aidé.
 
-Tant le blog hébergé et le bot twitter sont des options payantes. La doc pourra pourra vous éclairer sur le fait que vou pouvez vous héberger et pointer vers IFTTT comme alternative au bot.
+Le blog hébergé et le bot twitter sont des options payantes. La doc vous éclairera sur le fait que vou pouvez vous héberger et pointer vers IFTTT comme alternative au bot.
 
 Le système suit les principes indieweb de contrôler son propre contenu et d'envoyer des copies sur d'autres espaces.
 
@@ -46,23 +46,25 @@ J'ai ajouté ici une nouvelle catégorie, micro. J'ai édité le blog pour qu'il
 
 J'ai paramétré l'app micro.blog pour créer des post avec le format de statut dans la catégorie micro.
 
-J'ai désactivé la fonction jetpack post social vers twitter. Je posterai manuellement des posts normaux. J'ai paramatré un bot micro.blog pour poster vers Twitter.
+J'ai désactivé la fonction jetpack post social vers twitter. Je posterai manuellement des posts normaux. J'ai paramétré un robot micro.blog pour poster vers Twitter.
 
 Le service est un travail en cours, et je n'ai pss vraiment lu les docs mais noté quelques points intéressants.
 
 ## Sans titre
 
-On is that the posts on micro.blog consist of descriptions with no titles. When you post form the app, you get a post on your blog without a title. A post with a title on your blog is posted as a link to micro.blog. With a post without out a title the description becomes the content of the micro.blog post.
+Les messages sur micro.blog se composent de descriptions sans titres. Lorsque vous publiez à partir de l'application, vous recevez un post sur votre blog sans titre. Un post avec un titre sur votre blog est publié en tant que lien vers micro.blog. Avec un post sans titre, la description devient le contenu du post de micro.blog.
 
-That means you get lots of posts listed in your dashboard as ‘no title’. Since I didn’t like this I tried to auto add titles to posts without titles with a little Google-fu and some WordPress coding.
+Cela signifie que vous obtenez beaucoup de messages répertoriés dans votre tableau de bord en tant que «aucun titre». Comme je n'aimais pas cela, j'ai essayé d'ajouter automatiquement des titres aux articles sans titre avec un peu de Google-fu et du codage WordPress.
 
-This worked out fine, except the posts on micro.blog consist of a title and a link, the tweet posted by the twitter bot is the same.
+Cela a bien fonctionné, à l'exception des posts sur micro.blog consistant en un titre et un lien, le tweet posté par le bot twitter est le même.
 
-I am now looking to create a custom RSS feed without title. More googling ahead.
+Je cherche maintenant à créer un flux RSS personnalisé sans titre. Plus de googling à venir.
 
-Alternatively I could use the code from Tweaks for micro.blog that adds dates as titles, micro.blog ignore these.
+Sinon, je pourrais utiliser le code de Tweaks pour micro.blog qui ajoute des dates en tant que titres, micro.blog les ignore.
 
-Or just learn to live with ‘no title’ posts in the dashboard.
+Ou tout simplement apprendre à vivre avec des messages `no title` dans le tableau de bord.
+
+
 
 ## Moi sur Micro.blog
 
@@ -73,20 +75,16 @@ I’ll post the code I’ve mentioned above at some point, it is pretty simple s
 
 ---
 
-Il est probable que vous vous souveniez du temps Beaucoup d'entre vous se souviennent des premiers jours du web. Si vous vouliez écrire sur internet, vous avez créé un site web. Vous pouvez publier des essais, poster des photos, démarrer des weblogs. Parce que les sites Web étaient indépendants, souvent avec leur propre nom de domaine personnel, il n'y avait pas une entreprise qui pouvait dire aux auteurs quoi publier ou quels outils utiliser. Si un fournisseur d'hébergement a cessé ses activités ou a modifié ses prix ou ses règles, vous pouvez simplement déplacer votre site vers un autre hôte. C'était votre contenu et vous l'avez possédé.
+Beaucoup d'entre vous se souviennent des premiers jours du web. Si vous vouliez écrire sur internet, vous avez créé un site web. Vous pouviez y publier des essais, poster des photos, démarrer des weblogs. Parce que les sites Web étaient indépendants, souvent avec leur propre nom de domaine personnel, il n'y avait pas une entreprise qui pouvait dire aux auteurs quoi publier ou quels outils utiliser. Si un fournisseur d'hébergement cessait ses activités ou modifiait ses prix ou ses règles, vous pouviez simplement déplacer votre site vers un autre hébergeur. C'était votre contenu et vous le possédiez.
 
+Aujourd'hui, la plupart des écrits vont dans un petit nombre de sites de réseaux sociaux populaires. Ces sites sont devenus populaires parce qu'ils ont grandement facilité la connexion avec les amis et le démarrage de publications, et parce qu'ils fournissaient une expérience utilisateur sous forme d'une  timeline qui faisait que tout était simple et rapide.
 
+Mais cette simplicité a un coût : il est impossible de déplacer le contenu entre ces plates-formes en silos, les publicités sont partout, et si une entreprise fait faillite, tous les écrits hébergés disparaissent de l'Internet.
 
-Many of you remember the earlier days of the web. If you wanted to write on the internet, you created a web site. You could publish essays, post photos, start weblogs. Because web sites were independent, often with their own personal domain name, there was no one company who could tell authors what to post or which tools to use. If a hosting provider went out of business, or changed their prices or policies, you could simply move your site to another host. It was your content and you owned it.
+Je crois que même ces messages courts, peu importe s'ils vous semblent insignifiants et éphémères, ont toujours une place importante sur le web ouvert. C'est pourquoi j'ai créé Micro.blog.
 
-Today, most writing instead goes into a small number of popular social networking sites. These sites became popular because they made it so easy to connect with friends and start publishing, and because they provided a timeline user experience that made everything easy and fast.
+Au lieu d'être un autre réseau social, Micro.blog est conçu pour fonctionner avec le web ouvert. Il est construit sur RSS et des  microblogs indépendants. Il s'agit de rassembler des messages courts et de les rendre plus utiles et plus faciles pour l'interaction. Il donne la priorité à la fois à une communauté sécurisée de microblogs et à la liberté de publier sur votre propre site.
 
-But this simplicity comes at a cost: it’s impossible to move content between these platform silos, ads are everywhere, and if a company goes out of business, all the writing hosted there vanishes from the internet.
+Micro.blog encourage la publication sur votre propre nom de domaine, où vous pouvez contrôler votre propre contenu, mais il intègre toujours les messages dans une interface utilisateur familière, avec des réponses centralisées, des favoris et une API ouverte basée sur les standards JSON Feed et IndieWeb.
 
-I believe that even these short-form posts, no matter if they seem unimportant and fleeting at the time, still have an important place on the open web. That’s why I created Micro.blog.
-
-Instead of yet another social network, Micro.blog is designed to work with the open web. It’s built on RSS and independent microblogs. It’s about pulling together short posts and making them more useful and easier to interact with. It prioritizes both a safe community of microblogs as well as the freedom to post to your own site.
-
-Micro.blog encourages publishing at your own domain name, where you can control your own content, but it still integrates posts into a familiar timeline user interface, with centralized replies, favorites, and an open API based on JSON Feed and IndieWeb standards.
-
-[You can register for free](https://micro.blog/register), bring your own weblog, or let Micro.blog host a microblog for you with a simple paid subscription. Map a custom domain to your site and get your content out whenever you want. I hope you like it.
+[Vous pouvez vous inscrire gratuitement](https://micro.blog/register), apportez votre propre blog, ou laissez Micro.blog vous héberger un microblog avec un simple abonnement payant. Mappez un domaine personnalisé sur votre site et sortez votre contenu quand vous le souhaitez. J'espère que tu aimes.
