@@ -1,8 +1,15 @@
-# Micro Guide : Modifier les couleurs par défaut du thème Micro.blog Marfa
+---
+title: micro.blog : thème marfa
+draft: false
+date: 2018-04-30
+draft: true
+---
 
-Changé le thème de mon microblog vers Marfa.
+## Micro Guide : Modifier les couleurs par défaut du thème Micro.blog Marfa
 
-Marfa c'est le nouveau thème proposé aux sites web hébergés par  [Micro.blog](https://micro.blog). J'aime vraiment ce thème conçu par [Marcelo Marfil](https://micro.blog/mmarfil) inspiré par le thème Cactus.
+Changé le thème de mon micro.blog vers Marfa.
+
+Marfa, c'est le nouveau thème proposé aux sites web hébergés par  [Micro.blog](https://micro.blog). J'aime vraiment ce thème conçu par [Marcelo Marfil](https://micro.blog/mmarfil) inspiré par le thème Cactus.
 
 Pour la touche personnelle, j'ai suivi les inspirations de @[RoelWillems](http://roelwillems.com/2018/04/15/i-switched-my.html) afin de changer la couleur par défaut pour les liens.
 
@@ -30,6 +37,5 @@ Changer les valeurs par défaut (rouge/rosé léger) est assez facile. En utilis
 
 _`#fcdae9` c'est pour souligner et mettre une ombre sur les liens. La couleurs `#ee4792` est pour le texte “Also on Micro.blog” dans le bouton tout en haut et à droite._
 
-[ ![](https://micro.blog/roelwillems/avatar.jpg) ](http://roelwillems.com/)
 
-[ Roel Willems ](http://roelwillems.com/)[@roelwillems](https://micro.blog/roelwillems)
+[Roel Willems ](http://roelwillems.com/)
