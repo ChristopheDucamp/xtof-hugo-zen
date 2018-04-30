@@ -1,6 +1,6 @@
 ---
 layout: micropubpost
-date: '2018-04-29T22:17:29.479Z'
+date: 2018-04-29T22:17:29.479Z
 title: Micropub - Quill
 tags: micropub indieweb quill
 ---
