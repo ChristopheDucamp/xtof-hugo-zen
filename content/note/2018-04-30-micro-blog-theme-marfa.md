@@ -1,6 +1,7 @@
 ---
 title: micro.blog - thème marfa
 date: 2018-04-30
+draft: true
 ---
 
 ## Micro Guide : Modifier les couleurs par défaut du thème Micro.blog Marfa
