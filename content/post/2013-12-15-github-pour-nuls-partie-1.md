@@ -9,8 +9,7 @@ subtitle: Un tutoriel en deux parties pour apprendre à démarrer sur GitHub et 
 slug: github-pour-nuls-partie-1
 author: Christophe Ducamp
 ---
-<div class="h-cite">
-Traduction d'un article original de <span class="p-author h-card">[Lauren Orsini](http://otakujournalist.com/about-the-author/)</span> publié le <time class="dt-published" value="2013-11-30">30 septembre 2013</time> pour ReadWriteWeb. Seul le <span class="p-name u-url">[lien original fait référence](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)</span>.</div>
+<div class="h-cite">Traduction d'un article original de <span class="p-author h-card">[Lauren Orsini](http://otakujournalist.com/about-the-author/)</span> publié le <time class="dt-published" value="2013-11-30">30 septembre 2013</time> pour ReadWriteWeb. Seul le <span class="p-name u-url">[lien original fait référence](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)</span>.</div>
 
 La traduction reste à raffiner avec la pratique de cet outil. [Seconde partie en cours d'étude](/2013/12/16/github-pour-nuls-partie-2) pour me lancer sous peu dans les premiers *commits* à la ligne de commande. Mise en forme prévue pour le plan de route [indieweb](http://indiewebamp.com) 2014. Merci. - <span class="u-syndication">[xtof_fr](https://twitter.com/xtof_fr/status/412238889739247616)</span>
 
