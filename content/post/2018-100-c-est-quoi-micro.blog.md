@@ -2,6 +2,7 @@
 title: "C'est quoi Microblog ?"
 date: 2018-04-03T17:45:32+02:00
 draft: false
+tags: [micro.blog]
 ---
 Depuis le [début du mois](https://microblog.ducamp.me/2018/03/26/gnration-indieweb-et.html), j'explore ailleurs et avec joie le service hébergé d'un micro.blog...
 
