@@ -23,7 +23,7 @@ enableGitInfo = true
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #pygmentsStyle = "friendly"
-disqusShortname = "xtof"
+#disqusShortname = "xtof"
 #googleAnalytics = "XXX"
 
 
@@ -70,7 +70,7 @@ disqusShortname = "xtof"
 # Configuration Formats Output Netlify
 
 [outputs]
-home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+home = [ "HTML", "RSS", "REDIR", "HEADERS"]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
@@ -83,8 +83,28 @@ mediatype = "text/netlify"
 baseName = "_redirects"
 isPlainText = true
 notAlternative = true
+
 [outputFormats.HEADERS]
 mediatype = "text/netlify"
 baseName = "_headers"
 isPlainText = true
 notAlternative = true
+
+# Configuration Algolia
+
+# [outputFormats.Algolia]
+# baseName = "algolia"
+# isPlainText = true
+# mediaType = "application/json"
+# notAlternative = true
+
+# [params.algolia]
+# vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+# params = ["categories", "tags"]
+
+
+# [outputs]
+# home = ["HTML", "RSS", "Algolia"]
+
+
+
