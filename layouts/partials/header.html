@@ -64,6 +64,7 @@
         {{ end }}
 
         <div class="contact-links">
+           <!-- <a rel="me" class="contact-link MicroblogLink" href="{{ .Site.Params.microblog }}">{{ .Site.Data.svglogos.microblog | safeHTML }}</a>-->
             <a rel="me" class="contact-link TwitterLink" href="{{ .Site.Params.twitter }}">{{ .Site.Data.svglogos.twitter | safeHTML }}</a>
             <a rel="me" class="contact-link GithubLink" href="{{ .Site.Params.github }}">{{ .Site.Data.svglogos.github | safeHTML }}</a>  
             <a rel="me" class="contact-link EmailLink" href="mailto:{{ .Site.Params.email }}">{{ .Site.Data.svglogos.email | safeHTML }}</a>
