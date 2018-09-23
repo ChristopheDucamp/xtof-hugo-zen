@@ -13,7 +13,7 @@ Seul le lien original fait référence.
 
 
 <figure><img src="http://patrickrhone.com/images/notemetadata.JPG" />
-<figcaption>(le visuel original reste ouvert à la traduction en français.)</figcaption></figure>
+<figcaption>(+ traduction - `metadatanote.jpg`- 📷)</figcaption></figure>
 
 Ci-dessous une légende pour les métadonnées sur les notes
  
