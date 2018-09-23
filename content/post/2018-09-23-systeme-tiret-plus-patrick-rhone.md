@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-09-23'
-title: 'Le système Tiret/Plus'
+title: 'Le système Tiret/Plus de Patrick Rhone'
 tags: [gtd, organisation,todo]
 slug: 'tiret-plus'
     
