@@ -92,8 +92,8 @@ Si vous avez trouvé le Système Tiret/Plus utile, ou s'il vous simplifie un peu
 
 ## Licence
 
-![Creative Commons License][17]  
-Ce travail est publié sous une [Licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported][18].
+![Licence Creative Commons][17]  
+Ce travail est publié sous une [Licence Creative Commons Attribution -Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 non transposé (CC BY-NC-SA 3.0)][18].
 
 [1]: http://patrickrhone.com/images/notemetadata.JPG
 [2]: http://patrickrhone.com/2006/05/12/org-fu-uberpost-productivity-whitepaper/
@@ -112,4 +112,4 @@ Ce travail est publié sous une [Licence Creative Commons Attribution-NonCommerc
 [15]: http://stephenpsmith.com/
 [16]: https://spb.io/MLJWclFNFk
 [17]: http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png
-[18]: http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
+[18]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr

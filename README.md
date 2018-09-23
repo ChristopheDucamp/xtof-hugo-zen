@@ -8,6 +8,7 @@ Une ébauche de blog personnel amorcé sur Jekyll et migré sur [GoHugo](https:/
 - workflow sans micropub  
 (UI IAwriter + YAML + github desktop)
 - publier des notes sans titre
+- POSSE vers Mastodon
 
 ## dogfood 2019
 
