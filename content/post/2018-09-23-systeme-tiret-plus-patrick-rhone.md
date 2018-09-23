@@ -29,7 +29,7 @@ Ci-dessous une légende pour les métadonnées sur les notes
 <dfn>Tiret / Plus</dfn> est un système de marquage de métadonnées que j'ai créé pour les notes papiers afin de marquer le statut des éléments actions dans une liste "todo". Il a évolué rapidement pour s'adapter également à la prise de notes en réunion afin de faciliter la numérisation et le traitement. 
 Il s'adresse principalement à toutes les personnes qui tiennent  des listes ou prennent des notes sur papier avec un stylo/crayon.
 
-J'ai initialement écrit à propos de ce système dans [un livre blanc de 2006][2] qui décrivait à l'époque la plupart de mes outils et méthodes de productivité. Beaucoup de choses ont changé depuis, mais le système « tiret/plus » est resté stable et je l'utilise toujours au quotidient (avec beaucoup d'autres maintenant).
+J'ai initialement écrit à propos de ce système dans [un livre blanc de 2006][2] qui décrivait à l'époque la plupart de mes outils et méthodes de productivité. Beaucoup de choses ont changé depuis, mais le système « tiret/plus » est resté stable et je l'utilise toujours au quotidien (avec beaucoup d'autres maintenant).
 
 ## Pratique
 
@@ -43,9 +43,9 @@ J'ai initialement écrit à propos de ce système dans [un livre blanc de 2006][
 
 (Triangle) : Point de données — Le fait de transformer le tiret en triangle indique un point de données (un fait ou un chiffre que vous souhaitez mémoriser par exemple).
 
-(Cercle) — Un cercle autour d'un des éléments ci-dessus signifie qu'il a été reporté, déplacé vers une autre liste ou  a changé de statut - c.-à-d. qu'un élément « en attente » est devenu désormais ailleurs un Élément Action ailleurs (avec une note indiquant où est parti cet élément).
+(Cercle) — Un cercle autour d'un des éléments ci-dessus signifie qu'il a été reporté, déplacé vers une autre liste ou  a changé de statut - c.-à-d. qu'un élément « en attente » est devenu désormais ailleurs un Élément Action ailleurs (avec une note indiquant où est parti cet élément.)
 
-La beauté de ce système réside dans le fait qu'il est entièrement construit sur le tiret original et qu'il s'enrichit de ses extensions. Par conséquent, il est facile de modifier des éléments d'un état à un autre (un élément d'action non faite à action faite, un élément d'action non faite vers en attente ou déléguée) et dans le cas d'un élément sans tiret changeant complètement,  l'élément est encerclé pour indiquer ça.
+La beauté de ce système réside dans le fait qu'il est entièrement construit sur le tiret original et qu'il s'enrichit de ses extensions. Par conséquent, il est facile de modifier des éléments d'un état à un autre (un élément d'action non faite à action faite, un élément d'action non faite vers en attente ou déléguée) et dans le cas d'un élément sans tiret changeant complètement, l'élément est encerclé pour indiquer ça.
 
 
 ## Ressources 
@@ -60,7 +60,7 @@ La beauté de ce système réside dans le fait qu'il est entièrement construit 
 
 [Pocket Sized Podcast 136: Automatic Dash | Pocket Sized Podcast][8] — Ronnie Lutes donne très bonne description du système Dash / Plus, ainsi que l'application, commençant aux environ de 25 minutes.
 
-## Items Recommandés
+## Éléments Recommandés
 
 Le bloc-notes [Levenger Annotation Ruled Paper][9] est idéal pour pour les notes de réunion et les listes. Il s'agit d'un agencement de style Cornell qui comporte des espaces en haut pour le Sujet, la Date, le File Under et le Numéro de Page et une large marge gauche qui est parfaite pour le système Tiret / Plus. Le [système Circa de Levenger][10] est également livré avec la même annotation réglée sur le papier par défaut. J'utilise (et j'aime) les deux ! En outre, le papier est lumineux, épais et prend facilement l'encre d'un stylo à encre ou à gel.
 
