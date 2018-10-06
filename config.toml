@@ -49,6 +49,7 @@ pygmentCodeFences = true
   #licenseURL  = "/mentions-legales/"
   #stylesheetURL = "/css/style.min.css"
   #highlightJSURL = "/css/highlight.pack.js"
+  newContentEditor = "bbedit"
 
 ## repo Gh pour le pied de page (inclure un slash ? la fin)
   ghrepo = "https://github.com/ChristopheDucamp/xtof-hugo-zen/"

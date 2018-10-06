@@ -1,0 +1,50 @@
+---
+layout: posts
+date: '2018-10-06'
+title: 'Une Comparaison Pratique de Mastodon et Micro.blog'
+tags: [microblog, twitter, mastodon, traduction]
+slug: 'comparaison-mastodon-micro.blog'
+draft: true
+    
+---
+
+Ce post est une traduction d'une page déposée par Davis Anson sur github. Seul le [lien original fait référence](https://github.com/DavidAnson/Twitter-Alternatives/blob/master/README.md).
+
+Nous sommes nombreux à [chercher des alternatives à Twitter](https://birchtree.me/blog/the-struggle-for-twitter-alternatives/) et il existe deux services qui sortent du lot : **Micro.blog** et **Mastodon**.
+
+Ce deux services prennent différentes approches, aussi en choisir un est un défi. Cette page met en évidence certaines des différences et elle s'adresse aux non-nerds qui ne veulent pas s'embourber dans les détails de la mise en oeuvre.
+Tous les efforts ont été faits pour être précis, mais certains détails techniques sont délibérément passés sous silence.
+
+> Pour en savoir plus sur les services équivalents, regardez la [Comparaison des services de microblogging sur  Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_microblogging_services)
+
+
+  | Mastodon | Micro.blog
+--|----------|-----------
+Site web | <https://joinmastodon.org/> | <https://micro.blog/>
+Pitch de vente | "Social networking, back in your hands. Follow friends and discover new ones. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free." | "A network of independent microblogs. Short posts like tweets but on your own web site that you control. Micro.blog is a safe community for microblogs. A timeline to follow friends and discover new posts. Blog hosting built on open standards."
+Meilleur Prix | Gratuit | [Gratuit, mais requiert un blog séparé pour poster](https://help.micro.blog/2018/setting-up-wordpress/)
+Prix véritable | Gratuit | [$5 par mois, pas de blog requis](https://help.micro.blog/2018/pricing/)
+Harcèlement et abus | <https://blog.joinmastodon.org/2018/07/cage-the-mastodon/> | <https://help.micro.blog/2018/twitter-differences/>
+Code de conduite | Dépend du serveur ([Exemple](https://mastodon.social/about/more)) | <https://help.micro.blog/2017/community-guidelines/>
+Politique de vie privée | Dépend du serveur | <https://help.micro.blog/2018/privacy-policy/>
+Hashtags dans les posts | Oui | [Non](https://help.micro.blog/2018/twitter-differences/)
+Réponses gérées différemment | Non | [Oui](https://help.micro.blog/2018/replies-and-mentions/)
+Sait exporter le contenu| [Oui](https://github.com/tootsuite/documentation/blob/d695ea1f135e56b02264c3a918017079ce4a0f10/Using-Mastodon/FAQ.md#can-i-save-my-data) | [Oui](https://help.micro.blog/2018/replies-and-mentions/)
+Publication croisée vers Twitter | Non | [Oui, avec un montant de $2/mois ou abonnement de $5/mois](https://help.micro.blog/faq/)
+Importation d'amis Twitter | [Oui](https://bridge.joinmastodon.org) | Non
+App officielle iOS ou Android | Non | [iOS only](https://help.micro.blog/2017/micropub-clients/)
+App officielle pour Mac ou Windows | Non | [uniquement Mac](https://help.micro.blog/2017/mac-version/)
+Clients tiers | [Oui](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md) | [Oui](https://help.micro.blog/2017/micropub-clients/)
+Securité | Nom d'utilisateur + mot de passe ([l'authentification 2FA est facultative](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/2FA.md)) | [uniquement l'adresse e-mail](https://micro.blog/DavidAnson/794416)
+
+> Omis délibérément de la liste au-dessus : commpteurs d'utilisateurs, statut open source, détails de fédération
+
+Je ne fais partie d'aucun des deux projets, par conséquent il peut y avoir des erreurs dans la table au-dessus.
+C'est pourquoi cet article est sur GitHub - [ouvrez SVP une  issue](https://github.com/DavidAnson/Twitter-Alternatives/issues) ou [envoyez une pull request](https://github.com/DavidAnson/Twitter-Alternatives/pulls) pour corriger tous les problèmes que vous trouverez.
+Si vous ajoutez du contenu, faites-le sur les deux plates-formes et placez un lien vers vos sources.
+
+Pour d'autres questions ou démarrer ne discussion, contactez-moi sur :
+
+- <https://indieweb.me/@xtof>
+- <https://micro.blog/xtof>
+- <https://twitter.com/xtof_party>

@@ -12,8 +12,7 @@ Seul le lien original fait référence.
 
 
 
-<figure><img src="http://patrickrhone.com/images/notemetadata.JPG" />
-<figcaption>(+ traduction - `metadatanote.jpg`- 📷)</figcaption></figure>
+![](/img/note-metadonnees.jpg)
 
 Ci-dessous une légende pour les métadonnées sur les notes
  
@@ -56,13 +55,13 @@ La beauté de ce système réside dans le fait qu'il est entièrement construit 
 
 [Soypunk »Utiliser les marqueurs Tiret / Plus sur iOS et OS X][5] - L'astucieux truc de Shawn Medero pour implémenter le système à l'aide d'Unicode et des outils d'extension de texte intégrés.
 
-[Hybrid Journal / James Gowans][6] — James Gowans a défoncé Dash/Plus avec le système populaire [Bullet Journal] [7]. Des choses utiles se sont produites.
+[Hybrid Journal / James Gowans][6] — James Gowans a défoncé Tiret/Plus avec le système populaire [Bullet Journal][7]. Des choses utiles se sont produites.
 
-[Pocket Sized Podcast 136: Automatic Dash | Pocket Sized Podcast][8] — Ronnie Lutes donne très bonne description du système Dash / Plus, ainsi que l'application, commençant aux environ de 25 minutes.
+[Pocket Sized Podcast 136: Automatic Dash | Pocket Sized Podcast][8] — Ronnie Lutes donne une très bonne description du système Tiret / Plus, ainsi que l'application, commençant aux environ de 25 minutes.
 
 ## Éléments Recommandés
 
-Le bloc-notes [Levenger Annotation Ruled Paper][9] est idéal pour pour les notes de réunion et les listes. Il s'agit d'un agencement de style Cornell qui comporte des espaces en haut pour le Sujet, la Date, le File Under et le Numéro de Page et une large marge gauche qui est parfaite pour le système Tiret / Plus. Le [système Circa de Levenger][10] est également livré avec la même annotation réglée sur le papier par défaut. J'utilise (et j'aime) les deux ! En outre, le papier est lumineux, épais et prend facilement l'encre d'un stylo à encre ou à gel.
+Le bloc-notes [Levenger Annotation Ruled Paper][9] est idéal pour pour les notes de réunion et les listes. Il s'agit d'un agencement de style Cornell qui comporte des espaces en haut pour le Sujet, la Date, le File Under; le Numéro de Page et une large marge à gauche qui est parfaite pour le système Tiret / Plus. Le [système Circa de Levenger][10] est également livré avec la même annotation réglée sur le papier par défaut. J'utilise (et j'aime) les deux ! En outre, le papier est lumineux, épais et prend facilement l'encre d'un stylo à encre ou à gel.
 
 ## Louanges pour le Système Tiret/Plus
 
@@ -82,7 +81,7 @@ _…sexy "dash/plus" notation system for identifying item status._
 
 – [Merlin Mann of 43 Folders][14]
 
-_Dash/plus is simple, yet flexible & adaptable to your own needs. Pen & paper or digital, it "just works"_
+_Dash/plus is simple, yet flexible & adaptable to your own needs Pen & paper or digital, it "just works"_
 
 – [Stephen Smith of In Context MultiMedia][15]
 
