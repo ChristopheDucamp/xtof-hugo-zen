@@ -20,7 +20,7 @@ Tous les efforts ont été faits pour être précis, mais certains détails tech
  nom     | Mastodon | Micro.blog
 --------|------|---
 Site web | <https://joinmastodon.org/> | <https://micro.blog/>
-Pitch de vente | "Le réseau social qui vous redonne le contrôle. Suivez vos amis et découvrez-en de nouveaux. Publiez ce que vous voulez : liens, images, textes, vidéos. Tout ça sur une plateforme appartenant à la communauté et sans publicités." | "A network of independent microblogs. Short posts like tweets but on your own web site that you control. Micro.blog is a safe community for microblogs. A timeline to follow friends and discover new posts. Blog hosting built on open standards."
+Pitch de vente | "Le réseau social qui vous redonne le contrôle. Suivez vos amis et découvrez-en de nouveaux. Publiez ce que vous voulez : liens, images, textes, vidéos. Tout ça sur une plateforme appartenant à la communauté et sans publicités." | "Un réseau de microblogs indépendants. Des petits posts comme des tweets mais sur votre propre site web que vous contrôlez. Micro.blog est une communauté sûre pour les microblogs. Une timeline pour suivre ses amis et découvrir de nouveaux posts. L'hébergement de blog est construit sur des standards ouverts."
 Meilleur Prix | Gratuit | [Gratuit, mais requiert un blog séparé pour poster](https://help.micro.blog/2018/setting-up-wordpress/)
 Prix véritable | Gratuit | [$5 par mois, pas de blog requis](https://help.micro.blog/2018/pricing/)
 Harcèlement et abus | <https://blog.joinmastodon.org/2018/07/cage-the-mastodon/> | <https://help.micro.blog/2018/twitter-differences/>
