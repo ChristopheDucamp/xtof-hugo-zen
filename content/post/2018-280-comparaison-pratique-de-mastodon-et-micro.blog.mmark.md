@@ -29,7 +29,7 @@ Politique de vie privée | Dépend du serveur | <https://help.micro.blog/2018/pr
 Hashtags dans les posts | Oui | [Non](https://help.micro.blog/2018/twitter-differences/)
 Réponses gérées différemment | Non | [Oui](https://help.micro.blog/2018/replies-and-mentions/)
 Sait exporter le contenu| [Oui](https://github.com/tootsuite/documentation/blob/d695ea1f135e56b02264c3a918017079ce4a0f10/Using-Mastodon/FAQ.md#can-i-save-my-data) | [Oui](https://help.micro.blog/2018/replies-and-mentions/)
-Publication croisée vers Twitter | Non | [Oui, avec un montant de $2/mois ou abonnement de $5/mois](https://help.micro.blog/faq/)
+Publication croisée vers Twitter | Oui (services tiers) | [Oui, avec un montant de $2/mois ou abonnement de $5/mois](https://help.micro.blog/faq/)
 Importation d'amis Twitter | [Oui](https://bridge.joinmastodon.org) | Non
 App officielle iOS ou Android | Non | [uniquement iOS](https://help.micro.blog/2017/micropub-clients/)
 App officielle pour Mac ou Windows | Non | [uniquement Mac](https://help.micro.blog/2017/mac-version/)
