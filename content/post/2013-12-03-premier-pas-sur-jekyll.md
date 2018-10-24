@@ -4,6 +4,7 @@ date: "2013-12-03 20:51:44 +01:00"
 subtitle: "Ma première page..."
 draft: false
 slug: premier-pas-sur-jekyll
+tags: jekyll
 ---
 
 ![](/img/jekyll-logo-dark-solid.png)
@@ -26,9 +27,9 @@ La voie est maintenant ouverte pour un pilotage à vue dans l'apprentissage et p
 
 Le plan de route <time class="dt-published" datetime="2013-12-03T22:12">à cette heure</time> 
 
-* grimper une (voire deux marches) sur l'[IndieMark](http://indiewebcamp.com/IndieMark),  
+* grimper une marche (voire deux) sur l'[IndieMark](http://indiewebcamp.com/IndieMark),  
 * creuser Git qui semble vraiment génial pour des usages de **solutions de coopérations sans coordination** sur tous les types de document
-* Explorer et partager l'effervescence omniprésente sur le [silo](http://indiewebcamp.com/silo-fr) social [Github](http://indiewebcamp.com/Github).
+* explorer et partager l'effervescence omniprésente sur le [silo](http://indiewebcamp.com/silo-fr) social [Github](http://indiewebcamp.com/Github).
 * plonger plus sérieusement dans un vieux *chronorêve* d'apprentissage de la programmation.
 
 ## Et la Coutume ?  
@@ -46,7 +47,8 @@ Rien de rationnel mais très heureux de repartir de zéro. Durant le mois de dé
 
 Dans le désordre, un grand merci à Toam pour cette [première notice rédigée en français](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/), aux  [membres de l'équipe pédagogique Github](https://github.com/ChristopheDucamp/following) pour les excellentes ressources publiques, sans oublier tous les membres de l'alliance [indiewebcamp](http://indiewebcamp.com) que je serai ravi de retrouver sous peu sur l'irc #indiewebcamp. 
 
-Emploi du temps chargé cette semaine pour m'essayer aux premiers *Push et Commit*. Vivement ce weekend pour retourner bricoler dans le moteur. 
+Emploi du temps chargé cette semaine pour m'essayer aux premiers *Push et Commit*. 
+Vivement ce weekend pour retourner bricoler dans le moteur. 
 
 <span class="h-card" rel="me">[@xtof_party](http://twitter.com/xtof_party)</span>
 
