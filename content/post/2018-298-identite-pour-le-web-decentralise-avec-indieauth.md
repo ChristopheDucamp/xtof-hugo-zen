@@ -71,9 +71,9 @@ Vous pouvez apprendre comment construire votre propre serveur IndieAuth en suiva
 
 Vous pouvez trouver la dernière spécification sur [indieauth.spec.indieweb.org](https://indieauth.spec.indieweb.org/). Si vous avez des questions, sentez-vous à l'aise pour les poser sur le canal #indieweb-dev dans le [chat IndieWeb](https://indieweb.org/discuss), et retrouvez Aaron sur [Twitter](https://twitter.com/aaronpk) ou sur [son site web](https://aaronparecki.com/aaronpk).
 
-## Qui est [ Aaron Parecki ](https://aaronparecki.com/)
+## Qui est [Aaron Parecki](https://aaronparecki.com/)
 
-<div style = "float:right">![Aaron Parecki](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2018/10/aaron@parecki.com_avatar_1539906454-64x64.jpg)</div>
+<span style = "float:right">![Aaron Parecki](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2018/10/aaron@parecki.com_avatar_1539906454-64x64.jpg)</span>
 
 [Aaron Parecki](https://aaronparecki.com) est le co-fondateur du mouvement IndieWeb, et il maintient oauth.net. Il est engagé dans les standards du web depuis 2010, et il est l’auteur de plusieurs recommandations W3C.
 

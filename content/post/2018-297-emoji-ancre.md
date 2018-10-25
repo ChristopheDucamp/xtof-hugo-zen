@@ -1,9 +1,9 @@
 
 ----
 layout: post
-title: ⚓ Ancré
-date : 2018-10-24
-slug: emoji-ancre
+title: '⚓ Ancré'
+date : '2018-10-24'
+slug: 'emoji-ancre'
 draft: true
 ----
 ⚓
