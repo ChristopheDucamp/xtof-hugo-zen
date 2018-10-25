@@ -10,14 +10,14 @@ draft: false
 
 > Cela fait plus d'un semestre que j'étudie Micro.blog et Mastodon, deux alternatives indieweb à Twitter. David Anson a eu le mérite de publier un tableau comparatif sur github. Seul le [lien original fait référence](https://github.com/DavidAnson/Twitter-Alternatives/blob/master/README.md).
 
-Nous sommes nombreux à [chercher des alternatives à Twitter](https://birchtree.me/blog/the-struggle-for-twitter-alternatives/) et il existe deux services qui sortent du lot : **Micro.blog** et **Mastodon**.
+Nous sommes nombreux à [chercher des alternatives à Twitter](https://birchtree.me/blog/the-struggle-for-twitter-alternatives/) et il existe deux services qui sortent du lot : **micro.blog** et **Mastodon**.
 
-Ces deux services prennent différentes approches, aussi en choisir un est un défi. Cette page met en évidence certaines de leurs différences et elle s'adresse aux non-nerds qui ne veulent pas s'embourber dans les détails de la mise en oeuvre.
+Ces deux services prennent différentes approches, aussi en choisir un est un défi. Cette page met en évidence certaines de leurs différences et elle s'adresse aux non-nerds qui ne veulent pas s'embourber dans les détails de mise en oeuvre.
 Tous les efforts ont été faits pour être précis, mais certains détails techniques sont délibérément passés sous silence.
 
 > Pour en savoir plus sur les services équivalents, regardez la [Comparaison des services de microblogging sur  Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_microblogging_services)
 
- nom     | Mastodon | Micro.blog
+service     | Mastodon | Micro.blog
 --------|------|---
 Site web | <https://joinmastodon.org/> | <https://micro.blog/>
 Pitch de vente | "Le réseau social qui vous redonne le contrôle. Suivez vos amis et découvrez-en de nouveaux. Publiez ce que vous voulez : liens, images, textes, vidéos. Tout ça sur une plateforme appartenant à la communauté et sans publicités." | "Un réseau de microblogs indépendants. Des petits posts comme des tweets mais sur votre propre site web que vous contrôlez. Micro.blog est une communauté sûre pour les microblogs. Une timeline pour suivre ses amis et découvrir de nouveaux posts. L'hébergement de blog est construit sur des standards ouverts."
