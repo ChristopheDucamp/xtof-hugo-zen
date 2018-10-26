@@ -15,7 +15,7 @@ Ceci est une traduction de l'article "[Identity for the Decentralized Web with I
 
 <p>Imaginez que vous n'ayez plus jamais besoin de vous souvenir d'un mot de passe pour vous connecter à un site web ou à une application. IndieAuth est un moyen simple mais puissant de gérer et de vérifier l'identité à l'aide de la décentralisation déjà intégrée au web. Nous sommes heureux de vous présenter Aaron Parecki, cofondateur du mouvement IndieWeb, qui vous montrera comment créer votre propre identité indépendante sur le web avec IndieAuth.</p>
 
-<footer>— [Dietrich Ayala](https://mastodon.social/@dietrich)</footer>
+<footer>— <a href="https://mastodon.social/@dietrich">Dietrich Ayala</a></footer>
 </blockquote>
 
 ## Présentation de IndieAuth
