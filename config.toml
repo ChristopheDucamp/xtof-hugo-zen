@@ -43,7 +43,7 @@ pygmentCodeFences = true
   gitlab    = "https://gitlab.com/ChristopheDucamp/"
   microblog = "https://micro.blog/xtof"
   instagram = "https://www.instagram.com/xtof_fr"
-  mastodon  = "https://indieweb.me/xtof"
+  #mastodon  = "https://indieweb.me/xtof"
   email     = "christophe@ducamp.me"
   keybase   = "https://keybase.io/christopheducamp"
   #licenseURL  = "/mentions-legales/"
@@ -63,11 +63,11 @@ pygmentCodeFences = true
 # MARKDOWN
 ## Configuration pour le parseur mardown BlackFriday : https://github.com/russross/blackfriday
 [blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true
-  angledQuotes = true
-  smartypantsQuotesNBSP = true
-  latexDashes = true
+ plainIDAnchors = true
+ hrefTargetBlank = true
+ angledQuotes = true
+ smartypantsQuotesNBSP = true
+ latexDashes = true
 
 
 

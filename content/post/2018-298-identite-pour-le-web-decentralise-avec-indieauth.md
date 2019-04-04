@@ -1,5 +1,4 @@
 ---
-layout: posts
 date: '2018-10-25'
 title: 'Identité pour le Web Décentralisé avec IndieAuth'
 tags: [web, identité, indieauth, indieweb]

@@ -1,11 +1,10 @@
-----
+---
 title: Améliorations des webmentions sur Micro.blog
 date : 2018-10-09
-
-slug:
+tags: [web, identité, indieauth, indieweb]
+slug: 'microblog-webmentions'
 draft: true
-----
-
+---
 
 Manton Reece a porté aujourd'hui quelques améliorations de webmentions sur [Micro.blog](https://micro.blog/) :
 

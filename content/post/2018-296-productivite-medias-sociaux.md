@@ -1,9 +1,8 @@
-----
-title: 9 Conseils de productivité pour les gestionnaires de médias sociaux
-date : 2018-10-21
-slug: productivite-community-management
-draft: true
-----
+---
+title: '9 Conseils de productivité pour les gestionnaires de médias sociaux'
+date : '2018-10-21'
+slug: 'productivite-community-management'
+---
 
 [Source](https://www.socialmediatoday.com/news/9-productivity-tips-for-social-media-managers/540164/ "Permalink to 9 Productivity Tips for Social Media Managers")
 

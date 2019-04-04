@@ -45,7 +45,7 @@ Rien de rationnel mais très heureux de repartir de zéro. Durant le mois de dé
 
 ## Merci à Tous
 
-Dans le désordre, un grand merci à Toam pour cette [première notice rédigée en français](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/), aux  [membres de l'équipe pédagogique Github](https://github.com/ChristopheDucamp/following) pour les excellentes ressources publiques, sans oublier tous les membres de l'alliance [indiewebcamp](http://indiewebcamp.com) que je serai ravi de retrouver sous peu sur l'irc #indiewebcamp. 
+Dans le désordre, un grand merci à Toam pour cette [première notice rédigée en français](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/), aux  [membres de l'équipe pédagogique Github](https://github.com/ChristopheDucamp/following) pour les excellentes ressources publiques, sans oublier tous les membres de l'alliance [indiewebcamp](http://indiewebcamp.com) que je serai ravi de retrouver sous peu sur le canal irc #indiewebcamp. 
 
 Emploi du temps chargé cette semaine pour m'essayer aux premiers *Push et Commit*. 
 Vivement ce weekend pour retourner bricoler dans le moteur. 

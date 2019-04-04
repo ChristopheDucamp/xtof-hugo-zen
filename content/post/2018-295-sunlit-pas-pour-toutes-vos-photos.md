@@ -1,16 +1,15 @@
 
-----
-layout: post
+---
+layout: posts
 title: Sunlit n'est pas valable pour toutes vos photos. Juste les meilleures.
 date : 2018-10-22
 slug: sunlit-pour-vos-plus-belles-photos
 draft: true
-----
+---
 
-Sunlit est conçu pour les photos qui racontent une histoire.
+L'app Sunlit est conçue pour les photos qui racontent une histoire.
 
 Publiez des photos sur votre propre blog — hébergé par [Micro.blog](https://micro.blog/) ou des blogs compatibles tels que WordPress — et découvrez de magnifiques photos provenant d'autres utilisateurs.
-
 
 ''Visuel timeline utilisateur''
 
