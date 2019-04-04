@@ -1,10 +1,8 @@
-----
+---
 title: Améliorations des webmentions sur Micro.blog
 date : 2018-10-09
-
-slug:
-draft: true
-----
+tags: [indieweb, webmentions, microblog]
+---
 
 
 Manton Reece a porté aujourd'hui quelques améliorations de webmentions sur [Micro.blog](https://micro.blog/) :
