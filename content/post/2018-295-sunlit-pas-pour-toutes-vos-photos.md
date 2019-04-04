@@ -1,17 +1,16 @@
-
 ---
 layout: posts
 title: Sunlit n'est pas valable pour toutes vos photos. Juste les meilleures.
 date : 2018-10-22
 slug: sunlit-pour-vos-plus-belles-photos
-draft: true
----
+tags: [microblog, photos]
 
+---
 L'app Sunlit est conçue pour les photos qui racontent une histoire.
 
 Publiez des photos sur votre propre blog — hébergé par [Micro.blog](https://micro.blog/) ou des blogs compatibles tels que WordPress — et découvrez de magnifiques photos provenant d'autres utilisateurs.
 
-''Visuel timeline utilisateur''
+''Placer ici un visuel timeline utilisateur''
 
 * Faites défiler une chronologie des photos de vos amis sur Micro.blog.
 * Importez des photos provenant de votre photothèque ou directement depuis Instagram ou Flickr.

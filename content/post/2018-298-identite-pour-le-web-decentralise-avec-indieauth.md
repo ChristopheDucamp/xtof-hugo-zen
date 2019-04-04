@@ -6,7 +6,7 @@ slug: 'identite-web-avec-indieauth'
 draft: false
 ---
 
-Ceci est une traduction de l'article "[Identity for the Decentralized Web with IndieAuth](https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/)" publié le 24 octobre 2018 par [Aaron Parecki](https://aaronparecki.com/) sur [Hacks.Mozilla.org (#Dweb)](https://hacks.mozilla.org/category/dweb/)_
+Ceci est une traduction de l'article "[Identity for the Decentralized Web with IndieAuth](https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/)" publié le 24 octobre 2018 par [Aaron Parecki](https://aaronparecki.com/) sur [Hacks.Mozilla.org (#Dweb)](https://hacks.mozilla.org/category/dweb/).
 
 <blockquote><p>Dans la série Dweb, nous couvrons des projets qui explorent ce qui est possible lorsque le web devient décentralisé ou distribué. Ces projets ne sont pas affiliés à Mozilla et certains d’entre eux réécrivent les règles sur la manière dont nous concevons un navigateur Web. Ce qu’ils ont en commun : ces projets sont open source et ouverts à la participation. Ils partagent la mission de Mozilla, qui est de garder le web ouvert et accessible à tous.</p>
 <p>Nous avons couvert jusqu’à présent un certain nombre de projets de cette série qui nécessitent des modifications au niveau de la fondation de l’architecture réseau du web. Mais parfois, le simple fait de changer notre façon d'utiliser le web que nous avons aujourd'hui peut avoir de grandes conséquences.
@@ -14,7 +14,7 @@ Ceci est une traduction de l'article "[Identity for the Decentralized Web with I
 
 <p>Imaginez que vous n'ayez plus jamais besoin de vous souvenir d'un mot de passe pour vous connecter à un site web ou à une application. IndieAuth est un moyen simple mais puissant de gérer et de vérifier l'identité à l'aide de la décentralisation déjà intégrée au web. Nous sommes heureux de vous présenter Aaron Parecki, cofondateur du mouvement IndieWeb, qui vous montrera comment créer votre propre identité indépendante sur le web avec IndieAuth.</p>
 
-<footer>— [Dietrich Ayala](https://mastodon.social/@dietrich)</footer>
+<footer>— <a href="https://mastodon.social/@dietrich">Dietrich Ayala</a></footer>
 </blockquote>
 
 ## Présentation de IndieAuth

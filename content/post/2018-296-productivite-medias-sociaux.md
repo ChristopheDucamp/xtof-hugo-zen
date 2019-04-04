@@ -2,8 +2,8 @@
 title: '9 Conseils de productivité pour les gestionnaires de médias sociaux'
 date : '2018-10-21'
 slug: 'productivite-community-management'
+draft: true
 ---
-
 [Source](https://www.socialmediatoday.com/news/9-productivity-tips-for-social-media-managers/540164/ "Permalink to 9 Productivity Tips for Social Media Managers")
 
 # 9 Conseils de productivité pour les gestionnaires de médias sociaux
@@ -12,7 +12,7 @@ Avec toutes les nombreuses tâches à effectuer associées à la gestion des mé
 
 De la configuration des chatbots de Facebook Messenger à la prévention du multitâche, voici neuf conseils de productivité qui vous aideront à travailler plus efficacement.
 
-### 1\. Lot de tâches similaires
+### 1 \. Lot de tâches similaires
 
 Comme son nom l'indique, le traitement par lots consiste à effectuer des tâches similaires dans un seul lot.
 

@@ -3,9 +3,9 @@ title: Améliorations des webmentions sur Micro.blog
 date : 2018-10-09
 tags: [web, identité, indieauth, indieweb]
 slug: 'microblog-webmentions'
-draft: true
 ---
-
+tags: [indieweb, webmentions, microblog]
+---
 Manton Reece a porté aujourd'hui quelques améliorations de webmentions sur [Micro.blog](https://micro.blog/) :
 
   * Réparé le permalien pour une réponse quand vous n'êtes pas connecté.e, ce qui empêchait les sites externes de vérifier le lien après avoir reçu une Webmention de la part de Micro.blog.
