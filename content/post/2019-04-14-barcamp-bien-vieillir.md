@@ -1,7 +1,7 @@
 ---
 date: '2019-04-14'
 title: 'Le premier Barcamp sur le thème du "Bien Vieillir"'
-tags: [barcamp, sénior, bien-vieillir,événement]
+tags: [barcamp, sénior, bien-vieillir,événement, crédit-agricole]
 slug: 'barcamp-bien-vieillir'
 draft: false
 ---
