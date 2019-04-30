@@ -45,6 +45,5 @@ Si vous ajoutez du contenu, faites-le sur les deux plates-formes et placez un li
 
 Pour d'autres questions ou démarrer une discussion, contactez-moi sur :
 
-- <https://indieweb.me/@xtof>
 - <https://micro.blog/xtof>
 - <https://twitter.com/xtof_party>
