@@ -1,6 +1,6 @@
 ---
+label: default
 hide_body: false
-is_partial: false
 fields:
 - name: aliases
   label: Aliases
@@ -66,3 +66,5 @@ fields:
   default:
   - src: "/img/path.jpg"
     desc: Sur la Route
+pages:
+- content/post/silence-radio-jusqu-aux-bermudes.md
