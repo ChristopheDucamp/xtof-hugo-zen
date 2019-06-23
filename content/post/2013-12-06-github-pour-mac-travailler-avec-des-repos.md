@@ -48,6 +48,6 @@ Vous devrez sélectionner un dossier sur votre Mac pour stocker la copie locale.
 
 ## Champagne !
 
-Bravo ! Vous disposez de votre propre version bifurquée d'un projet open source, clonée et synchronisée avec GitHub pour Mac. Vous voilà prêt pour commencer à contribuer.
+Bravo ! Vous disposez de votre propre version bifurquée d'un projet open source, cloné et synchronisé avec GitHub pour Mac. Vous voilà prêt pour commencer à contribuer.
 
 **Prochaine étape** : [apprendre à faire des modifications et les committer](/2013/12/06/github-produire-des-modifications/) avec GitHub pour Mac.
