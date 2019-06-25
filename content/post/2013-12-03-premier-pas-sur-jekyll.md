@@ -2,7 +2,6 @@
 title: 'Arrivée sur Jekyll : Ouf !'
 date: "2013-12-03 20:51:44 +01:00"
 subtitle: "Ma première page..."
-draft: false
 slug: premier-pas-sur-jekyll
 tags: [jekyll]
 ---
