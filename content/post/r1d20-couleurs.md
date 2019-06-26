@@ -64,7 +64,7 @@ S'assurer que la palette de couleurs soit conforme aux standards de contraste. L
 
 **Vous avez maintenant votre terrain de jeu**.
 
-![Patience... Essais et erreurs pour une palette répondant à la spécification WCAG 2.0](/img/couleur/palette-couleurs.png)
+![Patience... Essais et erreurs pour une palette répondant à la spécification WCAG 2.0](/img/palette-couleurs.png)
 
 
 #### Testez votre palette dans plusieurs environnemenets
