@@ -9,7 +9,7 @@ tags: [100daysofcode, colors, graphisme]
 bigimg: [{src: "/img/arc-en-ciel-autriche.jpg", desc: "arc en ciel - Autriche"}, {src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Optical-dispersion.png/220px-Optical-dispersion.png", desc: "Pink Floyd - Prisme"}, {src: "https://monosnap.com/file/41YkcwtgiLQEdKmsjqVuGAf328a5PN.png", desc: "Thai Sapphire (116)"}]
 ---
 
-20ème journée consacrée à la [section Graphisme](https://github.com/GoesToEleven/html-css-bootcamp) sur les bases de l'excellent bootcamp html/css de Todd McLeod. Une grosse section qui couvre les couleurs, les images et l'extraction d'icônes en SVGs. <!--more-->
+20ème journée consacrée à la [section Graphisme](https://github.com/GoesToEleven/html-css-bootcamp) sur les bases de l'excellent bootcamp [html/css de Todd McLeod](https://greatercommons.com/learn/how-to-create-a-website). Une grosse section qui couvre les couleurs, les images et l'extraction d'icônes en SVGs. <!--more-->
 
 ## Démarrage par la Couleur
 
@@ -53,6 +53,7 @@ Pour approfondir, lisez cet article de Zack Gehin (UX designer) : [Don’t let y
 Voici ses préconisations résumées en quatre points : 
 
 #### 1. Vérifiez les Contrastes 
+
 S'assurer que la palette de couleurs soit conforme aux standards de contraste. Le [WCAG 2.0](https://www.w3.org/TR/WCAG/#visual-audio-contrast) est là pour aider les designers à créer les meilleures expériences possibles. Ce [validateur de contraste](http://leaverou.github.io/contrast-ratio/) de Lea Verou aide à vérifier facilement vos choix de couleurs et typographies. 
 
 #### 2. Choisissez des nuances ou des teintes de la même famille de couleurs
@@ -67,12 +68,11 @@ S'assurer que la palette de couleurs soit conforme aux standards de contraste. L
 ![Patience... Essais et erreurs pour une palette répondant à la spécification WCAG 2.0](/img/palette-couleurs.png)
 
 
-#### Testez votre palette dans plusieurs environnemenets
+#### Testez votre palette dans plusieurs environnements
 
 L'une des étapes les plus importantes est d'identifier les environnements dans lesquelles les personnes utilisent votre app. Suivre le [processus de design d'environnement](https://medium.com/ruxers/environment-design-stop-limiting-design-to-digital-space-c10a10589b92) vous aidera à comprendre les différents environnements nécessaires. Placez votre terminal dehors à la lumière du jour, dans une salle sombre, ... et testez ! 
 
 **Si quelque chose ne va pas, itérez !**
-
 
 #### Regardez vos couleurs sur différents écrans 
 
