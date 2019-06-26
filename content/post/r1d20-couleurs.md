@@ -42,7 +42,7 @@ Recherche de couleurs complémentaires pour imaginer un thème assorti aux volet
 
 > un bleu chaud et saturé qui ajoute de la splendeur et une touche dramatique à la palette -- ([Laurine Déco](http://www.laurinedeco.fr/colours-of-england/2467-little-greene-thai-sapphire-116.html))
 
-![Thai Sapphire 116](https://monosnap.com/file/41YkcwtgiLQEdKmsjqVuGAf328a5PN.png)
+![Thai Sapphire 116](/img/thai-sapphire.jpg)
 
 ### Expérience-utilisateur
 
