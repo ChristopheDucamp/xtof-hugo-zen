@@ -15,17 +15,17 @@ bigimg: [{src: "/img/arc-en-ciel-autriche.jpg", desc: "arc en ciel - Autriche"},
 
 Dans la vraie vie, les graphistes, décorateurs, professionnels de la peinture, du tissu, de l'imprimerie... travaillent tous avec des codes de couleurs qui peuvent se convertir plus ou moins aisément. 
 
-![Le Capsure de Pantone](/img/pantone-capsure-bluetooth.png)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/christopheducamp/48130769213/in/datetaken/" title="Pantone Capsure"><img src="https://live.staticflickr.com/65535/48130769213_277927ecc7_c.jpg" width="800" height="427" alt="Pantone Capsure"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-> La propriété **`color`** permet de paramétrer la couleur de premier plan d'un élément texte et de ses éventuelles [décorations](https://developer.mozilla.org/fr/docs/Web/CSS/text-decoration). -- source [MDN: color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
+> La propriété **`color`** permet de paramétrer la couleur de premier plan d'un élément texte et de ses éventuelles [décorations](https://developer.mozilla.org/fr/docs/Web/CSS/text-decoration). -- source [MDN: color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
 
-La propriété CSS **`<color>`** permet de représenter précisément des couleurs dans [l'espace de couleurs sRGB](https://fr.wikipedia.org/wiki/SRGB). 
+La propriété CSS **`<color>`** permet de représenter précisément des couleurs dans [l'espace de couleurs sRGB](https://fr.wikipedia.org/wiki/SRGB). 
 
-Une couleur peut être décrite de trois façons :
+Une couleur peut être décrite de trois façons :
 
-  1. grâce à un mot-clé 
-  2. en utilisant [le système de coordonnées cubiques RGB](https://fr.wikipedia.org/wiki/Couleur_du_Web#Triplet_hexad.C3.A9cimal) (grâce à la notation #-hexadecimal ou aux notations fonctionnelles `rgb()` et `rgba()`)
-  3. ou en utilisant [le système de coordonnées cylindriques HSL](https://fr.wikipedia.org/wiki/Teinte_saturation_lumi%C3%A8re) (grâce aux notations fonctionnelles  `hsl()` et `hsla()`)
+  1. grâce à un mot-clé 
+  2. en utilisant [le système de coordonnées cubiques RGB](https://fr.wikipedia.org/wiki/Couleur_du_Web#Triplet_hexad.C3.A9cimal) (grâce à la notation #-hexadecimal ou aux notations fonctionnelles `rgb()` et `rgba()`)
+  3. ou en utilisant [le système de coordonnées cylindriques HSL](https://fr.wikipedia.org/wiki/Teinte_saturation_lumi%C3%A8re) (grâce aux notations fonctionnelles  `hsl()` et `hsla()`)
 
 Bien que les valeurs de couleur CSS soient définies avec précision, elles peuvent apparaître différemment selon les terminaux, la plupart des écrans de terminaux n'étant pas calibrés. Le rendu des couleurs peut donc beaucoup varier.
 
