@@ -16,7 +16,7 @@ Image : vieux gréement thonier
 
 Mental regonflé à bloc pour m'essayer à un chronorêve de devenir skipper à mi-temps...  La ville est prenante mais je la sens nocive pour le sommeil
 
-Autre mi-temps prévoir quelques passions comme le soutien indieweb pour m'essayer à m'affranchir de Google,  et rentrer un peu de monnaie en dispensant quelques sessions de formation réactualisées sur l'utilisation des médias sociaux.
+Autre mi-temps prévoir quelques passions comme le soutien indieweb pour m'essayer à m'affranchir de Google, et rentrer un peu de monnaie en dispensant quelques sessions de formation réactualisées sur l'utilisation des médias sociaux.
 
 Je suis toujours un fervent partisant du web ouvert, à savoir posséder et maîtriser votre identité et votre contenu en ligne. Ce qui veut dire que je compte faire un effort important pour héberger de plus en plus de contenus sur mon propre site. J'essaye d'arrêter d'utiliser Twitter depuis ... ayant opté pour la solution d'écrire quelques micro-posts qui sont désormais syndiqués/distribués sur micro.blog.
 

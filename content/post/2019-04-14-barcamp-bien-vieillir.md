@@ -8,7 +8,7 @@ draft: false
 
 Premier post "[retour de navigations](http://ducamp.me/Xtof/navigations)" pour remercier le Crédit Agricole Pyrénées-Gascogne de m'avoir fait confiance pour les accompagner dans l'organisation du **premier [barcamp](http://ducamp.me/barcamp) sur le thème du "bien vieillir"**. 
 
-À 57 ans —passionné de fait par la thématique sénior— je serai ravi de compter sur votre présence si vous êtes entrepreneur, startup ou professionnel, pour nous rejoindre à Anglet le **samedi 4 prochain**.
+À 57 ans —passionné de fait par la thématique sénior— je serai ravi de compter sur votre présence si vous êtes entrepreneur, startup ou professionnel, pour nous rejoindre à Anglet le **samedi 4 juin prochain**.
 
 ## Un barcamp ouvert et intergénérationnel au bord de la mer ! 
 

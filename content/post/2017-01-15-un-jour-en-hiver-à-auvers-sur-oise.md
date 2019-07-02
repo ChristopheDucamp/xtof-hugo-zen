@@ -8,8 +8,7 @@ tags:
 - CloudCannon
 - jamstatic
 - indieweb
-subtitle: Promenade dans les Interfaces pour déposer mon flux de travail Photo sur
-  la JAMstack
+subtitle: Promenade dans les Interfaces pour déposer mon flux de travail Photo sur la JAMstack
 author: xtof
 header-img: uploads/2017-015-JATP-Kenny-Barron-2.jpg
 ---

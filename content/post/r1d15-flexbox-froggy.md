@@ -3,7 +3,6 @@ title: "R1d15 : Flexbox"
 subtitle: Dans le casse-tête de la "pensée conteneur"
 date: 2017-08-07T09:46:52+02:00
 lastmod: "2017-08-07T17:23:52+02:00"
-draft: false
 tags: [100daysofcode,flexbox,hugo]
 bigimg: [{src: "/img/flex/flexbox-froggy.png", desc: "flexbox froggy"}]
 ---

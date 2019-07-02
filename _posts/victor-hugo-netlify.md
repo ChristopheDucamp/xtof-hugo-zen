@@ -5,12 +5,11 @@ subtitle: ""
 slug: ""
 date: "2017-08-23T11:17:10+02:00"
 lastmod: "2017-08-23T18:39:10+02:00"
-draft: false
 categories: [jamstack]
 tags: [100daysofcode, gohugo, boilerplate, netlify, déploiement, github]
 ---
 
-Jetons un oeil sur la façon d’héberger un site web statique en utilisant [Hugo][1] sur Netlify, et en n’oubliant pas d’installer un déploiement continu.
+Jetons un oeil sur la façon d’héberger un site web statique en utilisant [Hugo][1] sur Netlify, et en n'oubliant pas d’installer un déploiement continu.
 
 Dans ce tutoriel, nous utiliserons [Victor Hugo][2] (un modèle GoHugo continuellement maintenu) pour construire notre site statique.
 
