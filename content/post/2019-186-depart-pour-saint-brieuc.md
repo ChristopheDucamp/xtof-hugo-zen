@@ -1,20 +1,20 @@
 ---
 date: '2019-07-05'
-title: 'Rêve de mise à jour de christopheducamp.com en navigation'
+title: 'Rêve de mise à jour de christopheducamp.com sur mes futures navigations'
 tags: [navigation]
-slug: 'canardo'
+slug: 'embarquement-pour-Oban-Scotland-photoblog'
 draft: false
 ---
 
-Départ ce soir pour quelques jours de navigation à bord de Canardo un dériveur tout aluminium. Route maritime Saint Brieuc pour arriver à Oban (en Écosse). 
+Départ ce soir pour quelques jours de navigation à bord de Canardo un dériveur tout aluminium. Route maritime de Saint Brieuc pour arriver à [Oban](https://fr.wikipedia.org/wiki/Oban_(Écosse)) (Écosse). 
 
-Nous devrions faire escale aux îles Scilly et l'île de Man. Retour prévu mi-juillet selon ldes conditions météo qui semblent être plutôt calmes après un rapide aperçu des prévisions dans Weather4D.
+Nous devrions faire escale aux îles Scilly et à l'île de Man. Retour prévu mi-juillet selon les conditions météo qui semblent être plutôt calmes après un rapide aperçu des prévisions dans [Weather4D](https://www.weather4d.com/fr/).
 
 Preneur de vos conseils pour un retour terrestre à partir de Glasgow ?
 
 **Note de design indieweb** : N'embarquant plus avec un MacBook (minimalisme oblige), ce site ne sera pas mis à jour sur la route. Trop de friction sur l'interface de publication. Dès mon retour, je travaillerai sur l'interface de publication (installation d'un ou deux CMS) pour pouvoir poster à partir de mon iPhone et/ou iPad. Pour la motorisation, je suis attentivement les travaux d'[Andy Bell](https://andy-bell.design) à Brighton pour migrer sur une motorisation 11ty avec le [kit de démarrage Hylia](https://hylia.website) qui [pourrait intégrer sous peu les webmentions](https://andy-bell.design/notes/198/). 
 
-En attendant, vous pourrez me suivre sur mon autre site personnel <http://microblog.ducamp.me>
+En attendant, vous pourrez me suivre sur mon photoblog personnel hébergé sur <https://microblog.ducamp.me> et si facile à mettre à jour que ce soit avec l'application [SunLit](http://sunlit.io) ou Instagram.
 
 
 
