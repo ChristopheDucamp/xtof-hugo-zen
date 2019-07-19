@@ -10,6 +10,7 @@ tags:
 - artistes
 slug: j2-photowalk-empreintes
 subtitle: "PhotoWalk avec Barbara : le compte-rendu.  Prochaine étape : optimiser un workflow de photos pour construire un scrapbook."
+draft: true
 ---
 
 Pause technique indieweb aujourd'hui pour un ["rendez-vous" d'artiste](https://www.amazon.fr/dp/B006H19H3M) avec Barbara. Sortir la tête de l'écran et retrouver quelque inspiration dans la vraie vie pour faire du "business development".
@@ -24,7 +25,7 @@ L'espace vaut le détour. De très belles pièces, quelques luminaires très ins
 
 Pour ma photo du jour, je retiendrai les travaux de recherche sur la céramique signés de <span class="h-card">[Violaine Ulmer](https://www.violaine-ulmer.com/)</span> (plasticienne). Attention photo non retravaillée, brute de sortie du "photoflow" décrit ci-après.
 
-<span class="u-photo">![violaine-ullmer-empreintes-paris.jpg](/img/violaine-ullmer-empreintes-paris.jpg)</span>
+<span class="u-photo">![violaine-ullmer-empreintes-paris.jpg](/images/violaine-ullmer-empreintes-paris.jpg)</span>
 
 ## D'autres photos en vrac 
 

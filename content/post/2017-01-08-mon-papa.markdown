@@ -6,15 +6,16 @@ tags:
 - famille
 - mémoire
 author: xtof
+draft: true
 ---
 
 Ce sera **ma photo du jour** pour le défi de #100daysofphotos.
 
-![2017-007-Noel-Marnes-la-Coquette-16.jpg](/img/2017-007-papa-noel-marnes.jpg)
+![2017-007-Noel-Marnes-la-Coquette-16.jpg](/images/2017-007-papa-noel-marnes.jpg)
 
 Mon cher Papa, 
 
-La photo au-dessus est un premier essai pour mettre à jour ta photo de profil. Pas terrible mais prend la comme telle. Une victoire mentale personnelle de la part de ton fils aîné.
+La photo au-dessus est un premier essai pour mettre à jour ta photo de profil. Pas terrible mais prend la comme telle.
 
 (d'autres alternatives joyeuses sont à piocher dans le [stockshot de la soirée d'hier](http://ducamp.me/2017-008))
 

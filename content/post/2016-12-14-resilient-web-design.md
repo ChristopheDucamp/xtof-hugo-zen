@@ -5,7 +5,7 @@ tags:
 - inspiration
 - design
 - web
-title: 'Lecture : Design Web Résilient'
+title: '📚 Design Web Résilient'
 url: /2016/12/14/resilient-web-design/
 ---
 
