@@ -10,12 +10,13 @@ slug: love-markdown
 ![Facile à comprendre, non ?](/img/Scapple.png)
 
 Après plus d'un an passé sur la syntaxe Mediawiki, décidé de passer l'année 2014 en Markdown ! 
-Cette anti-sèche est destinée à des fins de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme très simple. ([Pressenti ailleurs comme l'avenir de l'écriture)](/2013/12/22/markdown-futur-ecriture))
+Cette anti-sèche est une première ébauche de traduction/adaptation en français de la "[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)" d'Adam Pritchard.
+
+Destinée à des fins d'étude personnelle et de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme très simple. ([Pressenti ailleurs comme l'avenir de l'écriture)](/2013/12/22/markdown-futur-ecriture))
 
 Pour une information de référence plus complète, regardez la [spécification originale de John Gruber](http://daringfireball.net/projects/markdown/) et la [page d'information sur le Markdown-enrichi de GitHub](http://github.github.com/github-flavored-markdown/).
 
-P.S. Ce post est un premier essai publié directement à partir de l'[éditeur de texte Byword](http://www.bywordapp.com) assorti de son module intégré de publication vers WordPress. 
-Le *source* est sujet à modification : cette anti-sèche publiée en syntaxe Markdown peut être directement modifiée et améliorée [ici sur Penflip](https://www.penflip.com/xtof/aide-penflip/blob/master/anti-se%CC%80che_markdown.md). 
+P.S. Considérez ce post comme un premier essai personnel non mis à jour. Publié directement à partir de l'[éditeur de texte Byword](http://www.bywordapp.com) assorti de son module intégré de publication vers WordPress. Le *source* est sujet à modification : cette anti-sèche publiée en syntaxe Markdown peut être directement modifiée et améliorée [ici sur Penflip](https://www.penflip.com/xtof/aide-penflip/blob/master/anti-se%CC%80che_markdown.md). 
 
 
 ## Table des matières  
