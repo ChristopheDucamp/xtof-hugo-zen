@@ -83,12 +83,12 @@ Alt-H2
 ## Emphase
 
     L'emphase, ou italique, avec *astérisques* ou _soulignés_.
-
-	Une emphase forte, ou gras avec **astérisques** ou __soulignés__.
-
-	Emphase combinée avec **astérisques et _soulignés_**.
-
-	Barré en utilisant deux tildes. ~~Effacez-ça.~~
+    
+    Une emphase forte, ou gras avec **astérisques** ou __soulignés__.
+    
+    Emphase combinée avec **astérisques et _soulignés_**.
+    
+    Barré en utilisant deux tildes. ~~Effacez-ça.~~
 
 
 L'emphase, ou italique, avec *astérisques* ou _soulignés_.
@@ -165,7 +165,7 @@ Il y a deux moyens de créer des liens.
 
 	[texte de référence arbitraire insensible à la casse]: https://www.mozilla.org
 	[1]: http://slashdot.org
-	[lien texte lui-même]: http://www.reddit.com
+	[lien texte lui-même] : http://www.reddit.com
 
 
 [Je suis un lien dans la ligne](https://www.google.com)
@@ -184,7 +184,7 @@ Un peu de texte pour montrer que la référence de liens peut suivre plus tard.
 
 [texte de référence arbitraire insensible à la casse]: https://www.mozilla.org
 [1]: http://slashdot.org
-[lien texte lui-même]: http://www.reddit.com
+[lien texte lui-même] : http://www.reddit.com
 
 ---
 <span id="images"></span>
@@ -218,7 +218,7 @@ Référence-style :
 
 Les blocs de code font partie de la spécification Markdown, mais pas la coloration syntaxique. Néanmoins beaucoup d'analyseurs -- comme celui de Github et *Markdown Here* -- supportent la mise en valeur de syntaxe. *Markdown Here* supporte la mise en valeur de dizaines de langages (et pas -vraiment- des langages, commes les diffs et headers HTTP) ; pour voir la liste complète, et savoir comment écrire le nom des langages, voir la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
-{% highlight bash %}
+```
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
 {% endhighlight %}
 
@@ -226,11 +226,11 @@ Le `code` dans la ligne a des `guillemets arrière autour` de lui.
 
 Les blocs de code sont soit entourés avec trois guillemets-arrière <code>```</code>, ou sont indentés avec quatre espaces. Je recommande de n'utiliser que les blocs de code entourés de guillemets arrière— ils sont plus aisés et sont les seuls à supporter la mise en valeur de la syntaxe.
 
-{% highlight javascript %}
+````
 javascript
  var s = "JavaScript syntax highlighting";
  alert(s);
- {% endhighlight %}
+````
 
 {% highlight python %}
 python
