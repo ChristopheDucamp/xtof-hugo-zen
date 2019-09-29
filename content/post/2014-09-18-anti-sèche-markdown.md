@@ -145,7 +145,7 @@ Barré en utilisant deux tildes. ~~Effacez-ça.~~
 
 ## Liens
 
-Il y a deux moyens de créer des liens.
+Il y a deux moyens pour créer des liens.
 
 
 	[Je suis un lien dans la ligne](https://www.google.com)
@@ -215,7 +215,7 @@ Référence-style :
 
 ## Coloration Syntaxique
 
-Les blocs de code font partie de la spécification Markdown, mais pas la coloration syntaxique. Néanmoins beaucoup d'analyseurs -- comme celui de Github et *Markdown Here* -- supportent la mise en valeur de syntaxe. *Markdown Here* supporte la mise en valeur de dizaines de langages (et pas -vraiment- des langages, commes les diffs et headers HTTP) ; pour voir la liste complète, et savoir comment écrire le nom des langages, voir la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
+Les blocs de code font partie de la spécification Markdown, mais pas la coloration syntaxique. Néanmoins beaucoup d'analyseurs -- comme celui de Github et *Markdown Here* -- supportent la mise en valeur de syntaxe. *Markdown Here* supporte la mise en valeur de dizaines de langages (et pas -vraiment- des langages, commes les diffs et headers HTTP) ; pour voir la liste complète, et savoir comment écrire le nom des langages, regardez la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
 ```
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
@@ -265,7 +265,7 @@ De nouveau, pour voir quels sont les langages disponibles pour la mise en valeur
 
 ## Tableaux
 
-Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Il y a un moyen facile d'ajouter des tables à votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application.
+Les tableaux ne font pas partie du coeur de la spécification Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Il y a un moyen facile d'ajouter des tables à votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application.
 
 ```
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
@@ -281,18 +281,18 @@ Les signes pipes (`|`) sont facultatifs, et vous n'avez pas besoin d'aligner pro
 Vous pouvez aussi utiliser le Markdown dans la ligne.
 
 ```
-bash
-Markdown | Moins | Joli
---- | --- | ---
-*s'aligne* | `encore` | **joliment**
-1 | 2 | 3
-{% endhighlight %}
-
+markdown
 Markdown | Moins | Joli
 --- | --- | ---
 *s'aligne* | `encore` | **joliment**
 1 | 2 | 3
 ```
+
+Markdown | Moins | Joli
+--- | --- | ---
+*s'aligne* | `encore` | **joliment**
+1 | 2 | 3
+
 
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
 
