@@ -221,9 +221,8 @@ Les blocs de code font partie de la spécification Markdown, mais pas la colorat
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
 ```
 
-{{< highlight html >}}
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
-{{< /highlight >}}
+
 
 Les blocs de code sont soit entourés avec trois guillemets-arrière <code>```</code>, ou sont indentés avec quatre espaces. Je recommande de n'utiliser que les blocs de code entourés de guillemets arrière— ils sont plus aisés et sont les seuls à supporter la mise en valeur de la syntaxe.
 
@@ -231,7 +230,6 @@ Les blocs de code sont soit entourés avec trois guillemets-arrière <code>```</
  javascript
  var s = "Mise en valeur de la syntaxe JavaScript";
  alert(s);
-
 ```
 
 ```
@@ -246,13 +244,11 @@ Mais jetons un <b>tag</b>.
 ```
 
 {{< highlight javascript >}}
-javascript
 var s = "Mise en valeur de la syntaxe JavaScript";
 alert(s);
 {{< /highlight >}}
 
 {{< highlight python >}}
-python
 s = "Mise en valeur de la syntaxe Python"
 print s
 {{< /highlight >}}
