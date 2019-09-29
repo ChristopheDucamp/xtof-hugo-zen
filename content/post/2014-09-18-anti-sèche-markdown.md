@@ -9,14 +9,13 @@ slug: love-markdown
 
 ![Facile à comprendre, non ?](/img/Scapple.png)
 
-Après plus d'un an passé sur la syntaxe Mediawiki, décidé de passer l'année 2014 en Markdown ! 
-Cette anti-sèche est une première ébauche de traduction/adaptation en français de la "[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)" d'Adam Pritchard.
+Après plus d'un an passé sur la syntaxe Mediawiki, j'ai décidé de passer l'année 2014 en Markdown. Cette anti-sèche est une première ébauche de traduction/adaptation en français de la "[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)" d'Adam Pritchard.
 
-Destinée à des fins d'étude personnelle et de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme très simple. ([Pressenti ailleurs comme l'avenir de l'écriture)](/2013/12/22/markdown-futur-ecriture))
+Cette traduction est purement destinée à des fins d'étude personnelle et de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme entre différentes motorisations. ([Pressenti ailleurs comme l'avenir de l'écriture)](/2013/12/22/markdown-futur-ecriture))
 
 Pour une information de référence plus complète, regardez la [spécification originale de John Gruber](http://daringfireball.net/projects/markdown/) et la [page d'information sur le Markdown-enrichi de GitHub](http://github.github.com/github-flavored-markdown/).
 
-P.S. Considérez ce post comme un premier essai personnel non mis à jour. Publié directement à partir de l'[éditeur de texte Byword](http://www.bywordapp.com) assorti de son module intégré de publication vers WordPress. Le *source* est sujet à modification : cette anti-sèche publiée en syntaxe Markdown peut être directement modifiée et améliorée [ici sur Penflip](https://www.penflip.com/xtof/aide-penflip/blob/master/anti-se%CC%80che_markdown.md). 
+P.S. Considérez ce post comme un premier essai personnel non mis à jour. Publié initialement à partir de l'[éditeur de texte Byword](http://www.bywordapp.com) assorti de son module intégré de publication vers WordPress. Le *source* est sujet à modification : cette anti-sèche publiée en syntaxe Markdown peut être directement modifiée et améliorée [ici sur GitHub](https://github.com/ChristopheDucamp/xtof-hugo-zen/edit/master/content/post/2014-09-18-anti-sèche-markdown.md). 
 
 
 ## Table des matières  
@@ -194,20 +193,20 @@ Un peu de texte pour montrer que la référence de liens peut suivre plus tard.
 	Voici un logo (survolez-le pour voir le texte du titre) : 
 
 	Style dans-la-ligne : 
-	![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 1")
+	![texte alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 1")
 
 	Référence-style : 
-	![alt text][logo]
+	![texte alt][logo]
 
 	[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 2"
 
 Voici un logo (survolez-le pour voir le texte du titre) :
 
 Style dans-la-ligne :
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 1")
+![texte alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 1")
 
 Référence-style : 
-![alt text][logo]
+![texte alt][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Titre Texte 2"
 
@@ -220,52 +219,52 @@ Les blocs de code font partie de la spécification Markdown, mais pas la colorat
 
 ```
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
-{% endhighlight %}
+```
 
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
 
 Les blocs de code sont soit entourés avec trois guillemets-arrière <code>```</code>, ou sont indentés avec quatre espaces. Je recommande de n'utiliser que les blocs de code entourés de guillemets arrière— ils sont plus aisés et sont les seuls à supporter la mise en valeur de la syntaxe.
 
-````
+```
 javascript
- var s = "JavaScript syntax highlighting";
+ var s = "Mise en valeur de la syntaxe JavaScript";
  alert(s);
-````
+```
 
-{% highlight python %}
+```
 python
- s = "Python syntax highlighting"
+ s = "Mise en valeur de la syntaxe Python"
  print s
- {% endhighlight %}
+```
 
- {% highlight bash %}
+```
 Aucun langage indiqué, aussi pas de mise en valeur de la syntaxe. 
 Mais jetons un <b>tag</b>.
-{% endhighlight %}
+```
 
 javascript
-var s = "JavaScript syntax highlighting";
+var s = "Mise en valeur de la syntaxe JavaScript";
 alert(s);
 
 python
-s = "Python syntax highlighting"
+s = "Mise en valeur de la syntaxe Python"
 print s
 
- Aucun langage indiqué, aussi pas de mise en valeur de la syntaxe. 
- Mais jetons un <b>tag</b>.
+Aucun langage indiqué, aussi pas de mise en valeur de la syntaxe. 
+Mais jetons un <b>tag</b>.
 
 (Les pages du wiki Github ne semblent pas supporter la mise en valeur de syntaxe, par conséquent ce qui est au-dessus ne sera pas coloré. Par exemple, les chaînes n'apparaissent pas en rouge. Essayez dans un e-mail *Markdown here* ou un README Github Markdown ou un problème Github -- vous pouvez pré-visualiser un nouveau problème sans le soumettre.)
 
-De nouveau, pour voir quels sont les langages disponibles pour la mise en valeur/couleur, et savoir comment écrire ces noms de langage, voir la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
+De nouveau, pour voir quels sont les langages disponibles pour la mise en valeur/couleur, et savoir comment écrire ces noms de langage, regardez la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
 ---
 <span id="tableaux"></span>
 
 ## Tableaux
 
-Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Il y a un moyen facile d'ajouter des tables à votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application .
+Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Il y a un moyen facile d'ajouter des tables à votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application.
 
-{% highlight bash %}
+```
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
 
 | Les Tableaux           | Sont            | Cools    |
@@ -273,10 +272,13 @@ Les signes deux points peuvent être utilisés pour aligner les colonnes.
 | col 3 est              | alignée à droite| $1600    |
 | col 2 est              | centrée         |  $12     |
 | les rayures de zèbres  | sont géniales   |  $1    |
-{% endhighlight %}
-Les signes pipes (`|`) sont optionnels, et vous n'avez pas besoin d'aligner proprement les lignes brutes Markdown. Vous pouvez utiliser aussi le Markdown dans la ligne.
+```
 
-{% highlight bash %}
+Les signes pipes (`|`) sont facultatifs, et vous n'avez pas besoin d'aligner proprement les lignes brutes Markdown. 
+Vous pouvez aussi utiliser le Markdown dans la ligne.
+
+```
+bash
 Markdown | Moins | Joli
 --- | --- | ---
 *s'aligne* | `encore` | **joliment**
@@ -287,15 +289,17 @@ Markdown | Moins | Joli
 --- | --- | ---
 *s'aligne* | `encore` | **joliment**
 1 | 2 | 3
-
+```
 
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
-
+```
+markdown
 | Les Tableaux           | Sont            | Cools    |
 | -------------          |:-------------:  | ----- :  |
 | col 3 est              | alignée à droite| $1600    |
 | col 2 est              | centrée         |  $12     |
 | les rayures de zèbres  | sont géniales   |  $1    |
+```
 
 Les signes pipes (`|`) sont optionnels, et vous n'avez pas besoin d'aligner proprement les lignes brutes Mardown. Vous pouvez utiliser aussi le Markdown dans la ligne.
 
@@ -309,7 +313,8 @@ Markdown | Moins | Joli
 
 ## Citations
 
-{% highlight bash %}
+```
+markdown
 > Les citations sont très pratiques dans l'email pour émuler le texte de réponse.
 > Cette ligne fait partie de la même citation.
 
@@ -317,7 +322,7 @@ Fin de citation.
 
 
 > Ceci est volontairement une très longue ligne qui sera citée proprement quand elle sera emballlée. Oh mec, continuons à écrire comme ça pour nous assurer que ce sera suffisamment long pour être bien emballé pour tout le monde. Bien sûr, vous pouvez *placer* du **Markdown** dans un bloc de citation.
-{% endhighlight %}
+```
 
 > Les citations sont très pratiques dans l'email pour émuler le texte de réponse.
 > Cette ligne fait partie de la même citation.
@@ -333,7 +338,7 @@ Fin de citation.
 
 Vous pouvez aussi utiliser du HTML brut dans votre Markdown, et il fonctionnera presque tout aussi bien.
 
-{% highlight bash %}
+```bash
 <dl>
   	<dt>Liste de définitions</dt>
   	<dd>C'est quelque chose que les personnes peuvent utiliser de temps en temps.</dd>
@@ -341,7 +346,7 @@ Vous pouvez aussi utiliser du HTML brut dans votre Markdown, et il fonctionnera 
   	<dt>Markdown dans le HTML</dt>
   	<dd>Ne fonctionne *pas* **très** bien. Utilisez les <em>tags</em> HTML.</dd>
 </dl>
-{% endhighlight %}
+```
 
 <dl>
   <dt>Liste de définitions</dt>
@@ -356,7 +361,7 @@ Vous pouvez aussi utiliser du HTML brut dans votre Markdown, et il fonctionnera 
 
 ## Règle horizontale
 
-{% highlight bash %}
+```
 Trois ou plus...
 
 ---
@@ -371,7 +376,7 @@ ___
 
 Soulignés
 
-{% endhighlight %}
+```
 
 Trois ou plus...
 
@@ -396,14 +401,14 @@ Ma recommandation basique pour savoir comment fonctionne le saut de ligne est d'
 
 Voici quelques petits trucs à essayer : 
 
-{% highlight bash %}
+```
 	Voici une ligne pour démarrer.
 
 	Cette ligne est séparée de celle du dessus par deux nouvelles lignes, aussi ce sera un *paragraphe séparé*. 
 
 	Cette ligne est aussi un paragraphe séparé, mais...
 	Cette ligne n'est séparée que par une seule nouvelle ligne, aussi c'est une ligne séparée dans le *même paragraphe*.
-{% endhighlight %}
+```
 
 Voici une ligne pour démarrer.
 
@@ -420,14 +425,14 @@ Cette ligne n'est séparée que par une seule nouvelle ligne, aussi c'est une li
 ## Vidéos Youtube
 
 Elles ne peuvent pas être ajoutées directement, mais vous pouvez ajouter une image avec un lien vers la vidéo comme suit : 
-
-`<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_ICI
+```html
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_ICI
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_ICI/0.jpg" 
-alt="TEXTE ALT IMAGE ICI" width="240" height="180" border="10" /></a>
-`
+alt='TEXTE ALT IMAGE ICI' width='240' height='180' border='10' /></a>
+```
 
 Ou, en pur Markdown, mais en perdant la taille et la bordure de l'image :
 
-```
+```markdown
 [![TEXTE ALT IMAGE ICI](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_ICI)
 ```
