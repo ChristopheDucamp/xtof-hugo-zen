@@ -221,14 +221,17 @@ Les blocs de code font partie de la spécification Markdown, mais pas la colorat
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
 ```
 
+{{< highlight html >}}
 Le `code` dans la ligne a des `guillemets arrière autour` de lui.
+{{< /highlight >}}
 
 Les blocs de code sont soit entourés avec trois guillemets-arrière <code>```</code>, ou sont indentés avec quatre espaces. Je recommande de n'utiliser que les blocs de code entourés de guillemets arrière— ils sont plus aisés et sont les seuls à supporter la mise en valeur de la syntaxe.
 
 ```
-javascript
+ javascript
  var s = "Mise en valeur de la syntaxe JavaScript";
  alert(s);
+
 ```
 
 ```
@@ -242,18 +245,22 @@ Aucun langage indiqué, aussi pas de mise en valeur de la syntaxe.
 Mais jetons un <b>tag</b>.
 ```
 
+{{< highlight javascript >}}
 javascript
 var s = "Mise en valeur de la syntaxe JavaScript";
 alert(s);
+{{< /highlight >}}
 
+{{< highlight python >}}
 python
 s = "Mise en valeur de la syntaxe Python"
 print s
+{{< /highlight >}}
 
 Aucun langage indiqué, aussi pas de mise en valeur de la syntaxe. 
 Mais jetons un <b>tag</b>.
 
-(Les pages du wiki Github ne semblent pas supporter la mise en valeur de syntaxe, par conséquent ce qui est au-dessus ne sera pas coloré. Par exemple, les chaînes n'apparaissent pas en rouge. Essayez dans un e-mail *Markdown here* ou un README Github Markdown ou un problème Github -- vous pouvez pré-visualiser un nouveau problème sans le soumettre.)
+(La motorisation Hugo est [livrée nativement avec la mise  en valeur de syntaxe](https://gohugo.io/content-management/syntax-highlighting/). La mise en valeur peut aussi s'essayer dans un e-mail *Markdown here* ou un README Github Markdown ou un problème Github -- vous pouvez pré-visualiser un nouveau problème sans le soumettre.)
 
 De nouveau, pour voir quels sont les langages disponibles pour la mise en valeur/couleur, et savoir comment écrire ces noms de langage, regardez la [page de démo highlight.js](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
