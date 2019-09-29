@@ -1,5 +1,5 @@
 ---
-title: Anti-sèche markdown.
+title: Anti-sèche markdown
 date: 2014-09-18 14:00:00 +02:00
 subtitle: J'aime les outils modernes d'écriture
 author: Christophe Ducamp
@@ -11,7 +11,7 @@ slug: love-markdown
 
 Après plus d'un an passé sur la syntaxe Mediawiki, j'ai décidé de passer l'année 2014 en Markdown. Cette anti-sèche est une première ébauche de traduction/adaptation en français de la "[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)" d'Adam Pritchard.
 
-Cette traduction est purement destinée à des fins d'étude personnelle et de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme entre différentes motorisations. ([Pressenti ailleurs comme l'avenir de l'écriture)](/2013/12/22/markdown-futur-ecriture))
+Cette traduction est purement destinée à des fins d'étude personnelle et de référence rapide pour étude d'inter-opérabilité de ce langage de mise en forme entre différentes motorisations. (Un langage [pressenti comme l'avenir de l'écriture](/2013/12/22/markdown-futur-ecriture))
 
 Pour une information de référence plus complète, regardez la [spécification originale de John Gruber](http://daringfireball.net/projects/markdown/) et la [page d'information sur le Markdown-enrichi de GitHub](http://github.github.com/github-flavored-markdown/).
 
