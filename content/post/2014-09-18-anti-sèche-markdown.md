@@ -265,19 +265,19 @@ De nouveau, pour voir quels sont les langages disponibles pour la mise en valeur
 
 ## Tableaux
 
-Les tableaux ne font pas partie du coeur de la spécification Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Il y a un moyen facile d'ajouter des tables à votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application.
+Les tableaux ne font pas partie du coeur de la spécification Markdown, mais ils font partie du Markdown enrichi sur GitHub et *Markdown Here* les supporte. Ils constituent un moyen facile pour ajouter des tableaux dans votre e-mail — une tâche qui autrement requiert de copier-coller à partir d'une autre application.
 
 ```
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
 
 | Les Tableaux           | Sont            | Cools    |
-| -------------          |:-------------:  | ----- :  |
+| -------------          |:-------------:  | -----:  |
 | col 3 est              | alignée à droite| $1600    |
 | col 2 est              | centrée         |  $12     |
 | les rayures de zèbres  | sont géniales   |  $1    |
 ```
 
-Les signes pipes (`|`) sont facultatifs, et vous n'avez pas besoin d'aligner proprement les lignes brutes Markdown. 
+Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les signes pipes (`|`) sont facultatifs, et vous n'avez pas besoin d'aligner proprement les lignes brutes Markdown. 
 Vous pouvez aussi utiliser le Markdown dans la ligne.
 
 ```
@@ -288,27 +288,19 @@ Markdown | Moins | Joli
 1 | 2 | 3
 ```
 
-Markdown | Moins | Joli
---- | --- | ---
-*s'aligne* | `encore` | **joliment**
+Les signes deux points `:` peuvent être utilisés pour aligner des colonnes.
+
+Les Tableaux | Sont | Cools
+-------------|:-------------:| -----:
+la col 3 est | aligné à droite | $1600
+la col 2 est | centrée | $12
+les lignes de zèbre | sont jolies | $1
+
+Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les pipes (|) à l'extérieur sont facultatifs et vous n'avez pas besoin de produire la ligne brute de Markdown. Vous pouvez également utiliser le Markdown dans la ligne.
+
+Markdown | Moins | Joli | 
+_Still_ |`renders`| **nicely**
 1 | 2 | 3
-
-
-Les signes deux points peuvent être utilisés pour aligner les colonnes.
-
-| Les Tableaux           | Sont            | Cools    |
-| -------------          |:-------------:  | ----- :  |
-| col 3 est              | alignée à droite| $1600    |
-| col 2 est              | centrée         |  $12     |
-| les rayures de zèbres  | sont géniales   |  $1    |
-
-Les signes pipes (`|`) sont optionnels, et vous n'avez pas besoin d'aligner proprement les lignes brutes Mardown. Vous pouvez utiliser aussi le Markdown dans la ligne.
-
-Markdown | Moins | Joli
---- | --- | ---
-*s'aligne* | `encore` | **joliment**
-1 | 2 | 3
-
 ---
 <span id="citations"></span>
 
@@ -321,7 +313,6 @@ markdown
 
 Fin de citation.
 
-
 > Ceci est volontairement une très longue ligne qui sera citée proprement quand elle sera emballlée. Oh mec, continuons à écrire comme ça pour nous assurer que ce sera suffisamment long pour être bien emballé pour tout le monde. Bien sûr, vous pouvez *placer* du **Markdown** dans un bloc de citation.
 ```
 
@@ -330,7 +321,7 @@ Fin de citation.
 
 Fin de citation.
 
-> Ceci est volontairement une très longue ligne qui sera citée proprement quand elle sera emballlée. Oh mec, continuons à écrire comme ça pour nous assurer que ce sera suffisamment long pour être bien emballé pour tout le monde. Bien sûr, vous pouvez *placer* du **Markdown** dans un bloc de citation.
+> Ceci est volontairement une très longue ligne qui sera citée proprement quand elle sera emballlée. Oh, continuons à écrire comme ça pour nous assurer que ce sera suffisamment long pour être bien emballé pour tout le monde. Bien sûr, vous pouvez *placer* du **Markdown** dans un bloc de citation.
 
 ---
 <span id="html"></span>
@@ -398,7 +389,7 @@ Soulignés
 
 ## Sauts de lignes
 
-Ma recommandation basique pour savoir comment fonctionne le saut de ligne est d'expérimenter et découvrir -- -- appuyez une fois sur la touche &lt;Entrée&gt; (c'est à dire, insérer une nouvelle ligne), puis appuyez deux fois (c'est à dire, insérer deux lignes), et regardez ce qui se passe. Vous apprendrez bientôt à avoir ce que vous désirez. "Markdown Toggle" est votre ami. 
+Ma recommandation basique pour savoir comment fonctionne le saut de ligne est d'expérimenter et découvrir -- pressez une fois la touche &lt;Entrée&gt; (c'est à dire, insérer une nouvelle ligne), puis appuyez deux fois (c'est à dire, insérer deux lignes), et regardez ce qui se passe. Vous apprendrez bientôt à avoir ce que vous désirez. "Markdown Toggle" est votre ami. 
 
 Voici quelques petits trucs à essayer : 
 
@@ -418,7 +409,7 @@ Cette ligne est séparée de celle du dessus par deux nouvelles lignes, aussi ce
 Cette ligne est aussi un paragraphe séparé, mais...
 Cette ligne n'est séparée que par une seule nouvelle ligne, aussi c'est une ligne séparée dans le *même paragraphe*.
 
-(Note technique : *Markdown Here* utilise les sauts de ligne GFM, aussi il n'y a pas besoin d'utiliser les deux espaces de saut de ligne de MD.)
+(Note technique : *Markdown Here* utilise les sauts de ligne GFM, par conséquent il n'y a pas besoin d'utiliser les deux espaces de saut de ligne de MD.)
 
 ---
 <span id="videos"></span>
