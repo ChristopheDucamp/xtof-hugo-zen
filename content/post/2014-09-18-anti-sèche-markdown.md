@@ -299,14 +299,12 @@ Markdown | Moins | Joli
 ```
 
 Les signes deux points peuvent être utilisés pour aligner les colonnes.
-```
-markdown
+
 | Les Tableaux           | Sont            | Cools    |
 | -------------          |:-------------:  | ----- :  |
 | col 3 est              | alignée à droite| $1600    |
 | col 2 est              | centrée         |  $12     |
 | les rayures de zèbres  | sont géniales   |  $1    |
-```
 
 Les signes pipes (`|`) sont optionnels, et vous n'avez pas besoin d'aligner proprement les lignes brutes Mardown. Vous pouvez utiliser aussi le Markdown dans la ligne.
 
