@@ -16,4 +16,4 @@ Preneur de vos conseils pour un retour terrestre à partir de Glasgow ?
 
 En attendant, vous pourrez me suivre sur mon photoblog personnel hébergé sur [https://microblog.ducamp.me](https://microblog.ducamp.me) et très facile à mettre à jour avec l'application [SunLit](http://sunlit.io) ou directement dans l'interface-utilisateur d'Instagram.
 
-(<ins date='2019-12-12'>edit du 12 décembre pour mes enfants 👶 : nous attendons [Nicolas Hoizey pour vous aider à ne plus vous faire piller vos contenus](https://talks.nicolas-hoizey.com/AXGNM8/ne-vous-laissez-plus-deposseder-de-vos-contenus "Ne vous laissez plus déposséder de vos contenus"). Reparlons-en à l’anniversaire de 👵</ins>)
+(<ins date='2019-12-12'>edit du 12 décembre pour mes enfants : nous attendons [Nicolas Hoizey pour vous aider à ne plus vous faire piller vos contenus](https://talks.nicolas-hoizey.com/AXGNM8/ne-vous-laissez-plus-deposseder-de-vos-contenus "Ne vous laissez plus déposséder de vos contenus"). Reparlons-en à mon retour de navigation début janvier.</ins>)
