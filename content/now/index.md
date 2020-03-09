@@ -4,16 +4,16 @@ date: 2020-03-09
 tags: navigation, indieweb, moment, surgissement
 ---
 
-Si la météo le permet, je serai en navigation et hors-ligne durant plus d'un mois sans accès internet. Par conséquent, tout mon apprentissage et mes travaux indieweb seront suspendus.
+Si la météo le permet, je serai en navigation et hors-ligne durant plus d'un mois sans accès internet. 
+Par conséquent, mes travaux de publication sur le web indépendant (indieweb) seront orientés sur l'utilisabilité de mises à jour hors-ligne.
 
-J'étudie comment sortir de la catégorisation espace-temps et toute forme de  classement par étiquettes. 
+Plus largement, je souhaite sortir de la catégorisation espace-temps et de toute forme de classement par étiquettes. 
+Telle est la raison pour laquelle mon wiki personnel "ducamp.me" deviendra mon domaine principal d'étude
 
 Ma page ''now'' sera maintenue sur [ducamp.me/now](https://ducamp.me/now) 
 
-Mon objectif pour le second semestre est de simplifier ma présence indieweb et de consolider les contenus sur ducamp.me mon domaine primaire.
+P.S. Mon objectif sur ce domaine pour le second semestre sera de simplifier ma présence indieweb et de migrer les contenus documentaire sur ducamp.me.
 
-Ce domaine personnel sera maintenu pour mon identité personnelle (carte de visite) et tests de motorisations (11ty ou Blot). 
-
-Les contenus migreront sur mon wiki personnel.
+Ce domaine sera maintenu pour mon identité personnelle (carte de visite) et quelques tests de motorisations (11ty ou Blot). 
 
 
