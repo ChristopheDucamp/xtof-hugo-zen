@@ -1,7 +1,7 @@
 ---
 title: now
 date: 2020-03-09
-tags: navigation, indieweb, moment, surgissement
+draft: true
 ---
 
 Si la météo le permet, je serai en navigation et hors-ligne durant plus d'un mois sans accès internet. Par conséquent, tout mon apprentissage et mes travaux indieweb seront suspendus.
@@ -15,5 +15,3 @@ Mon objectif pour le second semestre est de simplifier ma présence indieweb et 
 Ce domaine personnel sera maintenu pour mon identité personnelle (carte de visite) et tests de motorisations (11ty ou Blot). 
 
 Les contenus migreront sur mon wiki personnel.
-
-
