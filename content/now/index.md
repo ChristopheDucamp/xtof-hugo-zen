@@ -1,8 +1,7 @@
 ---
 title: now
 date: 2020-03-09
-#draft: true
-tags: navigation, maintenant, espace-temps
+tags: navigation, indieweb, moment, surgissement
 ---
 
 Si la météo le permet, je serai en navigation et hors-ligne durant plus d'un mois sans accès internet. Par conséquent, tout mon apprentissage et mes travaux indieweb seront suspendus.
