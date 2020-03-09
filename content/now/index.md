@@ -1,6 +1,8 @@
 ---
 title: now
 date: 2020-03-09
+#draft: true
+tags: navigation, maintenant, espace-temps
 ---
 
 Départ en navigation prévu pour avril et mai 2020. Si la météo le permet, je serai hors-ligne durant plus d'un mois sans accès internet. Par conséquent, tout mon apprentissage et mes travaux indieweb seront  suspendus.
