@@ -1,7 +1,6 @@
 ---
 title: Le mouvement page maintenant / now
 subtitle:  si les personnes vous demandent ce que vous faites en ce moment ?
-draft: true
 comments: false
 date: 2017-08-03
 ---
