@@ -1,7 +1,6 @@
 ---
 title: micro.blog - thème marfa
 date: 2018-04-30
-draft: true
 ---
 
 ## Micro Guide : Modifier les couleurs par défaut du thème Micro.blog Marfa
@@ -40,4 +39,4 @@ Changer les valeurs par défaut (rouge/rosé léger) est assez facile. En utilis
 _`#fcdae9` c'est pour souligner et mettre une ombre sur les liens. La couleurs `#ee4792` est pour le texte “Also on Micro.blog” dans le bouton tout en haut et à droite._
 
 
-[Roel Willems ](http://roelwillems.com/)
+[Roel Willems](http://roelwillems.com/)
