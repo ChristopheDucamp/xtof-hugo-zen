@@ -5,7 +5,7 @@ date: 2020-03-10
 
 ***Les points qui me traversent la tête à cette heure... dans le désordre***
 
-Sur la vie et l'espace-temps, une pensée matinale ma Tante Jacqueline qui fête aujourd'hui ses 99 ans. Croisée dimanche, elle tient toujours une superbe forme pour attaquer sa 100e année en continuant à jouer au Bridge. Sa vue ne lui permet plus de lire ni d'écouter quelque livre audio. Déposé ce matin [quelques pensées et un lien vers le 99, un jeu de cartes d'ivrognes](https://ducamp.me/2020-070) à essayer en famille.
+Sur la vie et l'espace-temps... une pensée matinale pour ma Tante Jacqueline qui fête aujourd'hui ses 99 ans. Croisée dimanche, la doyenne de la famille tient toujours une superbe forme pour attaquer sa 100e année. Sa vue ne lui permet plus de lire, ni d'écouter quelque livre audio. Mais elle joue toujours au bridge ! En quête d'inspirations, je viens de déposer ce matin [quelques statistiques et un lien vers le 99](https://ducamp.me/2020-070). Le 99 est aussi un jeu de cartes d'ivrognes à essayer en famille :) 
 
 Espoir d'embarquement pour le mois d'avril pour un tour d'Europe. J'embarquerai une tablette dans mon paquetage.recherche de publication sur le web indépendant (indieweb) focalisés sur l'utilisabilité d'interfaces accessibles hors-ligne. Espoir de trouver une solution facile pour maintenir un futur carnet de voyages avec quelques photos à partir d'un terminal mobile (iPad et iPhone uniquement). 
 
