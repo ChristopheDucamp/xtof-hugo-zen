@@ -10,7 +10,7 @@ Croisée dimanche, notre doyenne de famille tient toujours une superbe forme pou
 
 Espoir d'embarquement pour un tour d'Europe à faire au mois d'avril. Pour le paquetage logiciel, je recherche toujours une solution de publication sur le web indépendant (indieweb). Concentré sur l'utilisabilité d'interfaces ***accessibles hors-ligne*** pour synchronisations faciles aux escales. (Preneur de toute alternative à [DayOne](https://ducamp.me/DayOne))
 
-A mon retour de navigation attendu pour le moi de mai, je me poserai probablement en Anjou avec ma famille pour relancer de nouvelles explorations de design sur le ''futur de l'agriculture''. Et sonder l'intérêt pour organiser un indiewebcamp à la ferme. 
+À mon retour de navigation attendu pour le moiS de mai, je me poserai probablement en Anjou avec ma famille pour relancer de nouvelles explorations de design sur le ''futur de l'agriculture''. Et sonder l'intérêt pour organiser un indiewebcamp à la ferme. 
 
 Très inspiré mentalement par la lettre d'amour de Christian Bobin ([Pierre,](https://www.babelio.com/livres/Bobin-Pierre/1157433)) adressée au peintre Pierre Soulages. À l'écoute de tous les surgissements de présence, je navigue au jour le jour sur les 4 axes de la méthode [Design Your Life](https://ducamp.me/DYL) (FAST = Fun, Amour, Santé, Travail). Mon chronorêve pour la fin d'année demeure une traversée du Pacifique afin de m'affranchir de la catégorisation espace-temps et de toute autre forme de classement par étiquettes.
 
