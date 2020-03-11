@@ -3,7 +3,7 @@ title: Paquetage marin pour un mois de liberté
 date: 2020-03-11
 ---
 
-***Les points qui me traversent la tête à cette heure... dans le désordre et si je ne suis pas atteint par le virus !***
+***Les points qui me traversent la tête à cette heure... (si je ne suis pas atteint par le virus !)***
 
 ## Premier semestre : Tour d'Europe et Anjou 
 
