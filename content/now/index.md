@@ -1,6 +1,12 @@
 ---
 title: Paquetage marin pour un mois de liberté
 date: 2020-03-11
+tags:
+- navigation
+- lecture
+- marquises
+- Design Your Life
+- espace-temps
 
 ---
 **_Les points qui me traversent la tête à cette heure... (si je ne suis pas atteint par le virus !)_**
