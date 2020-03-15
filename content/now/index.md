@@ -1,21 +1,20 @@
 ---
-title: Paquetage marin pour un mois de liberté
-date: 2020-03-11
+title: Coronavirus : embarquement pour Bodrum ajourné 
+date: 2020-03-15
 tags:
 - navigation
 - lecture
 - marquises
+- coronavirus
 - Design Your Life
 - espace-temps
 
 ---
 **_Les points qui me traversent la tête à cette heure... (si je ne suis pas atteint par le virus !)_**
 
-## Premier semestre : Tour d'Europe et Anjou
+## Coronavirus : Embarquement annulé, télétravail en Anjou 
 
-Sur la vie et l'espace-temps, échanges en cours par e-mail avec Julien (skipper, convoyeur) pour contractualiser un embarquement à partir des Sables d'Olonne à destination de Bodrum (Turquie). Je posterai avant mon départ quelques dessins de la route prévisionnelle (via l'Italie et la Grèce - toujours sujette à modifications selon les pays en quarantaines).
-
-À mon retour de navigation prévu pour le mois de mai, je me poserai très probablement en Anjou avec ma famille. Intention de relancer de nouvelles explorations de design sur le ''futur de l'agriculture''. Et sonder l'intérêt pour organiser un ''indiewebcamp à la ferme''.
+Sur la vie et l'espace-temps, Julien (skipper, convoyeur) vient d'ajourner sur décision de son commanditaire un embarquement à partir des Sables d'Olonne à destination de Bodrum (Turquie). Les ports en Italie et à Malte sont désormais fermés. Par conséquent, j'envisge un dégagement en Anjou avec ma famille pour le Printemps. Intention de relancer de nouvelles explorations de design sur le ''futur de l'agriculture''. Et sonder l'intérêt pour organiser un ''indiewebcamp à la ferme''.
 
 ## Lectures et Inspirations en cours
 
