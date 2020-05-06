@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus - embarquement pour Bodrum ajourné" 
-date: 2020-03-15
+date: 2020-05-06
 tags:
 - navigation
 - lecture
@@ -12,13 +12,13 @@ tags:
 ---
 **_Les points qui me traversent la tête à cette heure... (si je ne suis pas atteint par le virus !)_**
 
-## Coronavirus : Embarquement annulé, télétravail en Anjou 
+## Coronavirus : Embarquement pour Athènes puis télétravail indieweb en Anjou 
 
-Sur la vie et l'espace-temps, Julien (skipper, convoyeur) vient d'ajourner sur décision de son commanditaire un embarquement à partir des Sables d'Olonne à destination de Bodrum (Turquie). Les ports en Italie et à Malte sont désormais fermés. Par conséquent, j'envisge un dégagement en Anjou avec ma famille pour le Printemps. Intention de relancer de nouvelles explorations de design sur le ''futur de l'agriculture''. Et sonder l'intérêt pour organiser un ''indiewebcamp à la ferme''.
+Sur la vie et l'espace-temps, je suis ravi d'embarquer le 9 mai à la Rochelle pour un convoyage à destination d'Athènes via Gibraltar. Avec l'incertitude sur les mesures d'auto-confinement en Grèce, je prévois de rentrer à Paris mi-juin et de passer l'été en Anjou pour de nouvelles explorations de design sur le ''futur de l'agriculture''. J'aimerais tout particulèrement  travailler sur le format et l'organisaiton d'un ''indiewebcamp à la ferme''.
 
 ## Lectures et Inspirations en cours
 
-Très inspiré mentalement par la lettre d'amour de Christian Bobin ([Pierre,](https://www.babelio.com/livres/Bobin-Pierre/1157433)) adressée au peintre Pierre Soulages. À l'écoute de tous les surgissements de présence, je navigue au jour le jour sur les 4 axes de la méthode [Design Your Life](https://ducamp.me/DYL) (FAST = Fun, Amour, Santé, Travail). Durant la navigation, j’hésite encore sur le choix de trois ouvrages à glisser dans mon paquetage minimaliste. 🤔 pour _La Recherche_, _Guerre et Paix, l’Odyssée_.
+Très inspiré mentalement par la lettre d'amour de Christian Bobin ([Pierre,](https://www.babelio.com/livres/Bobin-Pierre/1157433)) adressée au peintre Pierre Soulages. À l'écoute de tous les surgissements de présence, je navigue au jour le jour sur les 4 axes de la méthode [Design Your Life](https://ducamp.me/DYL) (FAST = Fun, Amour, Santé, Travail). Durant la navigation, j'ai chargé les 7 tomes de _La Recherche_ dans ma liseuse.
 
 ## Rêve d'Iles Marquises pour sortir de l'espace-temps
 
