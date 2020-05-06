@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus - embarquement pour Bodrum ajourné" 
+title: "Coronavirus - confinement sur une route La Rochelle - Athènes" 
 date: 2020-05-06
 tags:
 - navigation
