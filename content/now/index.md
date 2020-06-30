@@ -10,7 +10,7 @@ tags:
 - espace-temps
 
 ---
-**_Les points qui me traversent la tête à cette heure...**
+**_Les points qui me traversent la tête à cette heure..._**
 
 ## Été : retour en Anjou pour recherche d'embarquements 
 
