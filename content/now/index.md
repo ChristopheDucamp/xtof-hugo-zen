@@ -1,5 +1,5 @@
 ---
-title: "Déconfinement estival en Anjou" 
+title: "Confinements sur la Route d'Ulysse" 
 date: 2020-07-24
 tags:
 - navigation
