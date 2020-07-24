@@ -14,7 +14,7 @@ tags:
 
 ## Été : Embarquement pour un convoyage Marans - La Rochelle vers la Turquie 
 
-Émerveillé par la Route d'Ulysse après un premier circuit de convoyages A/R de la Rochelle à Athènes via Gibraltar-Sicile, je suis en train d'ouvrir les discussions avec quelques amis pour designer le  _futur de la vie de bureau sur un bateau_. Pour le mois de juillet, confinement au vert en Anjou pour retrouver ma famille et reste ouvert aux nouvelles explorations sur le ''futur de l'agriculture''. Et ravi d'embarquer en août pour un convoyage de catamaran au départ de [Marans](http://www.ville-marans.fr) à destination de [Fethiye](https://fr.wikipedia.org/wiki/Fethiye_(Muğla)) (Turquie)
+Émerveillé par la Route d'Ulysse après un premier circuit de convoyages A/R de la Rochelle à Athènes via Gibraltar-Sicile, je suis en train d'ouvrir les discussions avec quelques amis pour designer le  _futur de la vie de bureau sur un bateau_. Juillet calme avec confinement au vert en Anjou en famille avant d'embarquer début août pour un convoyage de catamaran au départ de [Marans](http://www.ville-marans.fr) à destination de [Fethiye](https://fr.wikipedia.org/wiki/Fethiye_(Muğla)) (Turquie).
 
 ## Lectures et Inspirations
 
