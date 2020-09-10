@@ -14,7 +14,7 @@ tags:
 
 ## ⚓️ Rentrée des classes 
 
-Émerveillé par la Route d'Ulysse après deux mois de convoyages de catamarans vers Athènes et Bodrum, je réléchis au design de _ma future vie de bureau sur un bateau_. Pour l'automne, je poursuis une recherche sur le futur de l'agriculture et reste ouvert à toute mission de conseil sur le secteur. 
+Émerveillé par la Route d'Ulysse après plus [deux mois de convoyages de catamarans vers Athènes et Bodrum](https://ducamp.me/Xtof/CV-marin#Mai_-_juin_2020_-_La_Rochelle_-_Ath.C3.A8nes_-_Toulon), je réléchis au design de _ma future vie de bureau sur un bateau_. Pour l'automne, je poursuis une recherche sur le futur de l'agriculture et reste ouvert à toute mission de conseil sur le secteur. 
 
 ## Lectures et Inspirations
 
