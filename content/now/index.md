@@ -1,5 +1,5 @@
 ---
-title: "⛵️ Rêve de naviagation Transpacifique" 
+title: "⛵️ Rêve de Pacifique" 
 date: 2020-09-10
 tags:
 - navigation
