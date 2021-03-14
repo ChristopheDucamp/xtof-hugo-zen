@@ -1,6 +1,6 @@
 ---
-title: "⛵️ Rêve de Pacifique" 
-date: 2020-10-22
+title: "⛵️ En navigation jusqu'à Pâques" 
+date: 2021-03-14
 tags:
 - navigation
 - lecture
@@ -12,15 +12,15 @@ tags:
 ---
 **_Les points qui me traversent la tête à cette heure..._**
 
-## ⛵️ Vacances de la Toussaint  
+## ⛵️ Apprentissage Navigation Hauturière.
 
-Émerveillé par la Route d'Ulysse après plus [deux mois de convoyages de catamarans vers Athènes et Bodrum](https://ducamp.me/Xtof/CV-marin#Mai_-_juin_2020_-_La_Rochelle_-_Ath.C3.A8nes_-_Toulon), je suis ravi de pouvoir poursuivre _ma future vie de bureau sur un bateau_. Départ prévu le 28 octobre de Gibraltar pour une première branche vers les Îles Canaries et étudier une traversée Transatlantique. 
+Après une traversée transatlantique en décembre 2020, je suis ravi de poursuivre mon apprentissage hauturier avec un convoyage d'Athènes à Saint Martin (Antilles). Retour prévu à Paris début avril 2021 pour embarquement sur la route d'Ulysse et envisager à l'automne une préparation à la [qualification Yachtmaster offshore](http://www.bluesailing-school.com/fr/stages-rya).
 
 ## 🧠 Inspirations motorisées par la communauté Nesslabs
 
 Ravi d'avoir rejoint la communauté joyeuse de nesslabs pilotée par [Anne-Laure Le Cunff](https://nesslabs.com). Un espace intime extraordinaire pour échanger et apprendre avec des esprits curieux provenant du monde entier. Champs d'intérêts déclarés pour 2021 : jardinage numérique, journal de bord, écriture et somnologie.
 
-## 2021 : Chronorêve d'Iles Marquises
+## 2022 : Chronorêve d'Iles Marquises
 
 Je maintiens toujours l'espoir de traverser l'Océan Pacifique afin de m'affranchir de la catégorisation espace-temps et de toute autre forme de classement par étiquettes.
 
