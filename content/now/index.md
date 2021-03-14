@@ -14,7 +14,7 @@ tags:
 
 ## ⛵️ Apprentissage Navigation Hauturière.
 
-Après une traversée transatlantique en décembre 2020, je suis ravi de poursuivre mon apprentissage hauturier avec un convoyage d'Athènes à Saint Martin (Antilles). Retour prévu à Paris début avril 2021 pour embarquement sur la route d'Ulysse et envisager à l'automne une préparation à la [qualification Yachtmaster offshore](http://www.bluesailing-school.com/fr/stages-rya).
+Après une [traversée transatlantique en décembre 2020](https://ducamp.me/CV-marin), je suis ravi de poursuivre mon apprentissage hauturier par un convoyage de catamaran d'Athènes à Saint Martin (Antilles). En escale [aujourd'hui à Mindelo](https://ducamp.me/2021-073), je prévois de revenir à Paris début avril 2021 pour un embarquement sur la route d'Ulysse. Pour l'automne, j'envisage une préparation à la [qualification Yachtmaster offshore](http://www.bluesailing-school.com/fr/stages-rya).
 
 ## 🧠 Inspirations motorisées par la communauté Nesslabs
 
