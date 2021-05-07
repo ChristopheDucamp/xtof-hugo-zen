@@ -1,6 +1,7 @@
 
 
-Mon blog personnel de recherche indieweb : [christopheducamp.com](https://christopheducamp.com). Amorcé sur Jekyll et migré sur [GoHugo](https://gohugo.io).
+Abandon de blog personnel de recherche indieweb : [christopheducamp.com](https://christopheducamp.com). 
+Amorcé sur Jekyll et migré sur [GoHugo](https://gohugo.io). Le blog c'est trop triste. Heureux de revenir sur la voie du wiki https://ducamp.me ! 
 
 ## dogfood 2018 
 - implémentation webmention 
