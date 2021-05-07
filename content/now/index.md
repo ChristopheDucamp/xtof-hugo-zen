@@ -1,5 +1,5 @@
 ---
-title: "⛵️ En navigation jusqu'à Pâques" 
+title: "⛵️ En navigation" 
 date: 2021-05-17
 tags:
 - navigation
