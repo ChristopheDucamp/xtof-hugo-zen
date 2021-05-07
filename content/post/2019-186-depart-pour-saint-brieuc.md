@@ -8,6 +8,11 @@ tags:
 slug: embarquement-pour-Oban-Scotland-photoblog
 
 ---
+
+Edit du 7 mai 2021 : WikiRenaissance en cours et fatigué de ce blog incompatible avec ma vie de marin. Toujours fan de la voie du [Bliki](https://communitywiki.org/wiki/Bliki). Retrouvons-nous sur mon domaine personnel de famille : [ducamp.me](https://ducamp.me)
+
+
+
 Départ ce soir pour quelques jours de navigation à bord de Canardo un dériveur tout aluminium. Route maritime de Saint Brieuc pour arriver à [Oban](https://fr.wikipedia.org/wiki/Oban_(Écosse)) (Écosse).
 
 Nous devrions faire escale aux îles Scilly et à l'île de Man. Retour prévu mi-juillet selon les conditions météo qui semblent être plutôt calmes après un rapide aperçu des prévisions dans [Weather4D](https://www.weather4d.com/fr/).
