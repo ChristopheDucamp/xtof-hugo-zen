@@ -19,7 +19,13 @@ Repos au mouillage sur une belle péniche à Samois-sur-Seine.
 
 Délices de plonger dans la *correspondance d'Antoine de Saint Exupéry à Consuelo*. 
 
-Décidé aussi de repenser mon *workflow de marin*. Repenser  *mon processus de création* en navigation. Comment [organiser plus soigneusement](https://ducamp.me/Johnny.Decimal) quelques prises de notes personnelles, ma production de photos. Repenser  la tenue de mes [carnets de voyages](https://ducamp.me/Commonplace_book) publics. 
+Décidé aussi de repenser mon *workflow de marin*. Repenser  *mon processus de création* en navigation. 
+
+Comment [organiser plus soigneusement](https://ducamp.me/Johnny.Decimal) quelques prises de notes personnelles, ma production de photos. 
+
+![Mon système Johnny.Decimal](https://ducamp.me/Fichier:Navigation-Johnny.Decimal.png-
+
+Repenser la tenue de mes [carnets de voyages](https://ducamp.me/Commonplace_book) publics. 
 
 ## Confiance en Nesslabs pour devenir Créateur
 
