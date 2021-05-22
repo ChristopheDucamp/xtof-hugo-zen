@@ -11,7 +11,7 @@ tags:
 ---
 **_BrainSail Adventures... Les points qui me traversent la tête à cette heure..._**
 
-*Vie aquatique* : belle semaine vécue avec Patrice sur une branche méditerranéenne entre Sète et [Port-Napoléon](https://www.port-adhoc.com/port-napoleon/). Réjoui de repartir mercredi prochain avec [Andy](https://www.relianceyachtmanagement.com/andy-mallion/) (un mec sérieux avec 200 kMN au compteur !) pour un [convoyage de catamaran (Fountaine Pajot Astrea 42)](https://www.bourse-aux-equipiers.com/annonce-33501.html). Départ de La Rochelle si météo ok pour livraison à Southampton. 
+*Vie aquatique* : belle semaine vécue avec Patrice sur une branche méditerranéenne entre Sète et [Port-Napoléon](https://www.port-adhoc.com/port-napoleon/). Réjoui de repartir mercredi prochain avec [Andy](https://www.relianceyachtmanagement.com/andy-mallion/) (un mec sérieux avec 200 kMN au compteur !) pour un [convoyage de catamaran (Fountaine Pajot Astrea 42)](https://www.bourse-aux-equipiers.com/annonce-33501.html). Départ mercredi de La Rochelle si météo ok pour livraison à Southampton. 
 
 ## Week-end de Pentecôte :  Apaisement
 
