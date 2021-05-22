@@ -15,9 +15,9 @@ tags:
 
 ## Week-end de Pentecôte :  Apaisement
 
-Week-end au mouillage sur une belle péniche à Samois-sur-Seine. La *correspondance d'Antoine de Saint Exupéry à Consuelo* me tend les bras pour repenser en douce un *workflow de marin*. Motivation : rester concentrer sur *mon processus de création* en navigation. Rêve de carnets de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics.[Organiser soigneusement](https://ducamp.me/Johnny.Decimal) quelques notes personnelles, une production de photos... 
+Week-end au mouillage sur une belle péniche à Samois-sur-Seine. La *correspondance d'Antoine de Saint Exupéry à Consuelo* me tend les bras pour repenser en douce un *workflow de marin*. Motivation : rester concentrer sur *mon processus de création* en navigation. Rêve de carnets de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics.[Organiser soigneusement](https://ducamp.me/Johnny.Decimal) quelques notes personnelles, une production de photos.
 
-![Mon système Johnny.Decimal](https://ducamp.me/Fichier:Navigation-Johnny.Decimal.png)
+![Mon système Johnny.Decimal](https://ducamp.me/images/thumb/3/39/Navigation-Johnny.Decimal.png/1600px-Navigation-Johnny.Decimal.png)
 
 
 
