@@ -13,9 +13,9 @@ tags:
 
 *Vie aquatique* : belle semaine vécue avec Patrice sur une branche méditerranéenne entre Sète et [Port-Napoléon](https://www.port-adhoc.com/port-napoleon/). Réjoui de repartir mercredi prochain avec [Andy](https://www.relianceyachtmanagement.com/andy-mallion/) (un mec sérieux avec 200 kMN au compteur !) pour un [convoyage de catamaran (Fountaine Pajot Astrea 42)](https://www.bourse-aux-equipiers.com/annonce-33501.html). Départ mercredi de La Rochelle si météo ok pour livraison à Southampton. 
 
-## Week-end de Pentecôte :  Apaisement
+## Apaisement au mouillage
 
-Week-end au mouillage sur une belle péniche à Samois-sur-Seine. La *correspondance d'Antoine de Saint Exupéry à Consuelo* me tend les bras pour repenser en douce un *workflow de marin*. Motivation : rester concentré sur *mon processus de création* en navigation. Un plein de questions : Repenser mes carnets de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics ? [Organiser soigneusement](https://ducamp.me/Johnny.Decimal) quelques notes personnelles, ma production de photos ?
+Weekend de Pentecôte au mouillage sur une belle péniche à Samois-sur-Seine. La *correspondance d'Antoine de Saint Exupéry à Consuelo* me tend les bras pour repenser en douce un *workflow de marin*. Je suis motivé pour repenser *mon processus de création* en navigation. Un plein de questions me taraude la tête : comment repenser mes carnets de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics ? Comment [organiser proprement](https://ducamp.me/Johnny.Decimal) mes quelques notes personnelles et ma production de photos pour faciliter le partage avec toutes celles et ceux que j'aime ?
 
 ![Mon système Johnny.Decimal](https://ducamp.me/images/thumb/3/39/Navigation-Johnny.Decimal.png/1600px-Navigation-Johnny.Decimal.png)
 
