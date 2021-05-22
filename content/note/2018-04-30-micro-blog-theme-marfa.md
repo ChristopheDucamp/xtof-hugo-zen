@@ -36,7 +36,7 @@ Changer les valeurs par défaut (rouge/rosé léger) est assez facile. En utilis
     
 ```
 
-_`#fcdae9` c'est pour souligner et mettre une ombre sur les liens. La couleurs `#ee4792` est pour le texte “Also on Micro.blog” dans le bouton tout en haut et à droite._
+_`#fcdae9` c'est pour souligner et mettre une ombre sur les liens. La couleur `#ee4792` est pour le texte “Also on Micro.blog” dans le bouton tout en haut et à droite._
 
 
 [Roel Willems](http://roelwillems.com/)
