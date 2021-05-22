@@ -7,6 +7,7 @@ tags:
 - lifedesign
 - création 
 - workflow
+slug: embarquement-LaRochelle-Southampton
 
 ---
 **_Les points qui me traversent la tête à cette heure..._**
