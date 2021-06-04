@@ -1,5 +1,5 @@
 ---
-title: "⛵️ Paré pour un La Rochelle - Southampton 🇬🇧" 
+title: "⛵️ CV marin mis à jour - Repos en famille jusqu'à la fin du mois" 
 date: 2021-06-04
 tags:
 - navigation
