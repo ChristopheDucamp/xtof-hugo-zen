@@ -24,6 +24,6 @@ Je décroche momentanément des réseaux sociaux et de l'indieweb. Je dois repen
 
 Inscrit au [cours en ligne "Collector to Creator"](https://community.nesslabs.com/c/dashboard/schedule) proposé par Anne-Laure Le Cunff, fondatrice de [Nesslabs](https://nesslabs.com/), je suis ravi de rejoindre la semaine prochaine l'[atelier d'écriture de Cécile Challier](http://lateliersouslestoits.free.fr) pour revenir aux joies du stylo-plume. 
 
-Des partants pour une première session jeudi prochain le 17 juin ? 
+Des partants pour une première session à un [atelier buissonnier](http://lateliersouslestoits.free.fr/atelier-ecriture-buissonnier.html) le jeudi prochain le 17 juin ? 
 
 N.B. Cette page ''now'' inspirée par [Derek Sivers](https://ducamp.me/maintenant), sera actualisée au fil de l'eau sur la page d'accueil de mon wiki [ducamp.me](https://ducamp.me/).
