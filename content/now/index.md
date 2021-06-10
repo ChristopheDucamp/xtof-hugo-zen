@@ -1,5 +1,5 @@
 ---
-title: "⛵️ CV marin mis à jour - " 
+title: "⛵️ CV marin mis à jour - En pause web jusqu'à la rentrée" 
 date: 2021-06-10
 tags:
 - navigation
