@@ -1,5 +1,5 @@
 ---
-title: "⛵️ CV marin mis à jour - En pause web jusqu'à la rentrée" 
+title: "Escale à Paris pour atelier d'écriture. ⛵️ CV marin mis à jour " 
 date: 2021-06-10
 tags:
 - navigation
