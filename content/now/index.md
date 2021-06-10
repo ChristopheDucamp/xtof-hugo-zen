@@ -1,6 +1,6 @@
 ---
-title: "⛵️ CV marin mis à jour - Repos en famille jusqu'à la fin du mois" 
-date: 2021-06-04
+title: "⛵️ CV marin mis à jour - " 
+date: 2021-06-10
 tags:
 - navigation
 - lecture
@@ -9,19 +9,21 @@ tags:
 - workflow
 
 ---
-**_BrainSail Adventures... Les points qui me traversent la tête à cette heure_**
+## ⛵️ Vie aquatique
 
-*Vie aquatique* : Après une belle semaine vécue avec Patrice sur une branche méditerranéenne entre Sète et [Port-Napoléon](https://www.port-adhoc.com/port-napoleon/) et un [convoyage de catamaran (Fountaine Pajot Astrea 42)](https://www.bourse-aux-equipiers.com/annonce-33501.html) de La Rochelle pour livraison à Southampton avec [Andy](https://www.relianceyachtmanagement.com/andy-mallion/), je viens de mettre à jour [mon CV-marin](https://ducamp.me/CV-marin#Contact). Ouvert pour toute navigation hauturière à partir de début juillet.
+Après une belle semaine vécue avec Patrice sur une branche méditerranéenne entre Sète et [Port-Napoléon](https://www.port-adhoc.com/port-napoleon/) et un [convoyage de catamaran (Fountaine Pajot Astrea 42)](https://www.bourse-aux-equipiers.com/annonce-33501.html) de La Rochelle pour livraison à Southampton avec [Andy](https://www.relianceyachtmanagement.com/andy-mallion/), je viens de mettre à jour [mon CV-marin](https://ducamp.me/CV-marin#Contact). 
+Engagé sur deux projets de navigation pour l'été, je suis à l'écoute pour tout embarquement hauturier à partir de septembre prochain.
 
-## Départ en Anjou pour apaisement en famille 
+## IndieWeb et Web Social mis en pause
 
-Départ pour ce weekend en famille. Absorbé par la délieuses *correspondance d'Antoine de Saint Exupéry à Consuelo* pour repenser en douce un *workflow de marin*. Motivé pour repenser *mon processus de création* en navigation, un plein de questions me taraude la tête : comment repenser mes carnets de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics ? Comment [organiser proprement](https://ducamp.me/Johnny.Decimal) mes quelques notes personnelles et ma production de photos pour faciliter le partage avec toutes celles et ceux que j'aime ?
+Je décroche momentanément des réseaux sociaux et de l'indieweb, pour repenser *mon processus de création* en navigation et hors-réseau. 
+Toujours motivé pour repenser mon écriture de voyage sur la base de [commonplace books](https://ducamp.me/Commonplace_book) publics ? Je suis en train d'étudier une [organisation de vie](https://ducamp.me/Johnny.Decimal), le rangement de mes notes personnelles privées et ma production de photos pour faciliter le partage avec toutes celles et ceux que j'aime.
 
 ![Mon système Johnny.Decimal](https://ducamp.me/images/thumb/3/39/Navigation-Johnny.Decimal.png/1600px-Navigation-Johnny.Decimal.png)
 
-## Confiance en Nesslabs pour m'aider à cuisiner mes carnets de voyages
+## Confiance dans la communauté Nesslabs pour m'aider à cuisiner
 
-Inscrit au [cours en ligne "Collector to Creator"](https://community.nesslabs.com/c/dashboard/schedule) dispensé par Anne-Laure Le Cunff, fondatrice de [Nesslabs](https://nesslabs.com/) pour retrouver avec joie la route de la création.
+Inscrit au [cours en ligne "Collector to Creator"](https://community.nesslabs.com/c/dashboard/schedule) proposé par Anne-Laure Le Cunff, fondatrice de [Nesslabs](https://nesslabs.com/), je suis très enthousiaste pour apprendre et rejoindre un atelier d'écriture. Espoir de revenir sur le web public à la rentrée prochaine. 
 
 
 N.B. Cette page ''now'' inspirée par [Derek Sivers](https://ducamp.me/maintenant), sera actualisée au fil de l'eau sur la page d'accueil de mon wiki [ducamp.me](https://ducamp.me/).
