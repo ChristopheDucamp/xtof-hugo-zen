@@ -1,5 +1,5 @@
 ---
-title: "⛵️ CV marin mis à jour - Pause sur la vie aquatique" 
+title: "Projets en cours pour 2022 : Formations ⛵️ et Santé Mentale" 
 date: 2022-01-30
 tags:
 - navigation
