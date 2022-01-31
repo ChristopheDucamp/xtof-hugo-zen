@@ -11,7 +11,7 @@ tags:
 ---
 ## ⛵️ Vie aquatique mise en pause.  
 
-L'actualisation de [mon CV-marin](https://ducamp.me/CV-marin#Contact) est mis en pause. Pas de navigations prévues ce trimestre avant de valider mon inscription chez Zephyr Yachting à Antibes pour une [formation diplômante à l'examen de Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/). 
+L'actualisation de [mon CV-marin](https://ducamp.me/CV-marin#Contact) est mise en pause. Pas de navigations prévues ce trimestre avant de valider mon inscription chez Zephyr Yachting à Antibes pour une [formation diplômante à l'examen de Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/). 
 Mon planning pour le 2e semestre sera de chasser dans mon réseau marin quelques premières navigations rémunérées. 
 
 ## Inspirations : Mer et rétablissement mental
