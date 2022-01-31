@@ -15,9 +15,9 @@ Je viens de mettre à jour [mon CV-marin](https://ducamp.me/CV-marin#Contact). E
 
 ## Inspirations : Mer et rétablissement mental
 
-Après une mise en pratique l'anée dernière d'une [réorganisation de ma vie](https://ducamp.me/Johnny.Decimal), je me concentre tout particulièrement pour évoluer sur les deux premières branches de mon système "1. Forme et Santé" et "2. Travail et Business". 
+Après une mise en pratique l'année dernière d'une [réorganisation de ma vie le système de Johnny](https://ducamp.me/Johnny.Decimal), je me concentre tout particulièrement pour évoluer sur les deux premières branches  "1. Forme et Santé" et "2. Travail et Business". 
 
-Inspiré par [Michel Jaouen, le curé des mers](https://fr.wikipedia.org/wiki/Michel_Jaouen) et les [Groupe d'Entraide Mutuelle](https://fr.wikipedia.org/wiki/Groupe_d%27entraide_mutuelle), je suis en train d'explorer les formations sur le rétablissement en santé mentale. Mon projet pour 2023 serait de concevoir et mettre en oeuvre une offre de navigations thérapeutiques (rétablissement et réinsertion sociale).
+Inspiré par [Michel Jaouen, le curé des mers](https://fr.wikipedia.org/wiki/Michel_Jaouen), quelques belles rencontres en Bretagne d'acteurs des [Groupes d'Entraide Mutuelle](https://fr.wikipedia.org/wiki/Groupe_d%27entraide_mutuelle), je suis en train d'explorer les formations sur le rétablissement en santé mentale. Mon rêve pour 2023 serait de concevoir et mettre en oeuvre une offre simple de navigations thérapeutiques autour du rétablissement et de la réinsertion sociale.
 
 ![Mon système Johnny.Decimal](https://ducamp.me/images/thumb/3/39/Navigation-Johnny.Decimal.png/1600px-Navigation-Johnny.Decimal.png)
 
