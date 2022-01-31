@@ -16,7 +16,7 @@ Mon planning pour le 2e semestre sera de chasser dans mon réseau marin quelques
 
 ## Inspirations : Mer et rétablissement mental
 
-Après une mise en pratique l'année dernière d'une [réorganisation de ma vie le système de Johnny](https://ducamp.me/Johnny.Decimal), je me concentre tout particulièrement pour évoluer sur les deux premières branches  "1. Forme et Santé" et "2. Travail et Business". 
+Après une mise en pratique l'année dernière d'une [réorganisation de ma vie sur le système de Johnny](https://ducamp.me/Johnny.Decimal), je me concentre tout particulièrement pour évoluer sur les deux premières branches  "1. Forme et Santé" et "2. Travail et Business". 
 Motivé pour réinventer ma vie et retrouver une indépendance financière.
 
 Inspiré depuis l'été dernier par [Michel Jaouen, le curé des mers](https://fr.wikipedia.org/wiki/Michel_Jaouen), par de belles rencontres en Bretagne avec quelques acteurs évoluant autour du mouvement des [Groupes d'Entraide Mutuelle](https://fr.wikipedia.org/wiki/Groupe_d%27entraide_mutuelle), j'explore l'offre de formations et les perspectives du métier de facilitateur sur le rétablissement en santé mentale. 
