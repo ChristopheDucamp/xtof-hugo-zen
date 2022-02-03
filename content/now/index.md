@@ -11,7 +11,7 @@ tags:
 ---
 ## ⛵️ Vie aquatique en pause.  
 
-[Mon CV-marin](https://ducamp.me/CV-marin#Contact) est mis à jour pour 2021. Pour 2022, je prévois de m'inscrire à une session de [formation diplômante à l'examen de Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/) chez Zephy-Yachting.
+[Mon CV marin d'équipier](https://ducamp.me/CV-marin#Contact) est mis à jour pour 2021. Pour 2022, j'aspire à devenir capitaine et  prévois de m'inscrire à une session de [formation à l'examen de Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/) chez Zephyr-Yachting à Antibes.
 
 ## Inspirations : Mer et rétablissement mental
 
