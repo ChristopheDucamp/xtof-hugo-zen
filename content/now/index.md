@@ -16,5 +16,6 @@ tags:
 - Engagé jusqu'à la fin du mois de février dans le [note-making challenge organisé par Nesslabs](https://nesslabs.com/note-making-challenge). Un plaisir de me remettre à penser au calme en anglais dans une classe virtuelle. Joie d'apprendre l'élaboration de notes avec la méthode [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten).
 
 <figure>
-![Note-making instructions : Ma page personnelle "captured" avec modèle zettelkasten](https://ducamp.me/Fichier:Note-making-challenge-captured-page.png)
+<img alt="Note-making instructions : Ma page personnelle captured avec modèle zettelkasten" src="https://ducamp.me/Fichier:Note-making-challenge-captured-page.png" />
+<figcaption>Modèle zettelkasten dans Roam Research.</figcaption>
 </figure>
