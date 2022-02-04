@@ -1,27 +1,16 @@
 ---
-title: "Mes Projets 2022 : Formation YachtMaster ⛵️ et Santé Mentale" 
-date: 2022-01-30
+title: ## ⛵️ Ce que je fais maintenant 
+date: 2022-02-04
 tags:
-- navigation
+- famille
+- now
 - lifedesign
-- santé mentale
-
-
+- note-making
 
 ---
-## ⛵️ Vie aquatique en pause.  
+## Février à Paris : Vie aquatique mise en pause.  
 
-[Mon CV marin d'équipier](https://ducamp.me/CV-marin#Contact) est mis à jour pour 2021. Pour 2022, j'aspire à devenir capitaine et  prévois de m'inscrire à une session de [formation à l'examen de Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/) chez Zephyr-Yachting à Antibes.
-
-## Inspirations : Mer et rétablissement mental
-
-Après une mise en pratique l'année dernière d'une [réorganisation de ma vie sur le système de Johnny](https://ducamp.me/Johnny.Decimal), je me concentre tout particulièrement pour évoluer sur les deux premières branches  "1. Forme et Santé" et "2. Travail et Business". 
-Motivé pour réinventer ma vie et retrouver une indépendance financière.
-
-Inspiré depuis l'été dernier par [Michel Jaouen, le curé des mers](https://fr.wikipedia.org/wiki/Michel_Jaouen), par de belles rencontres en Bretagne avec quelques acteurs évoluant autour du mouvement des [Groupes d'Entraide Mutuelle](https://fr.wikipedia.org/wiki/Groupe_d%27entraide_mutuelle), j'explore les formations au métier de facilitateur sur le rétablissement en santé mentale. 
-
-Mon projet pour le second semestre 2022 serait de naviguer avec quelques pairs-aidants pour échanger sur la conception d'une offre simple de navigations thérapeutiques autour du rétablissement et de la réinsertion sociale.
-
-![Mon système Johnny.Decimal](https://ducamp.me/images/thumb/3/39/Navigation-Johnny.Decimal.png/1600px-Navigation-Johnny.Decimal.png)
-
-N.B. Cette page ''now'' inspirée par [Derek Sivers](https://ducamp.me/maintenant), sera actualisée au fil de l'eau sur la page d'accueil de mon wiki [ducamp.me](https://ducamp.me/).
+- Priorité à la vie de famille. : Heureux d'être grand-père, je me réjouis d'avance de célébrer en famille la venue à Paris de mon petit-fils avec ses parents. 
+- [Mon CV marin d'équipier](https://ducamp.me/CV-marin#Contact) est mis à jour pour 2021. À l'écoute des offres d'embarquement hauturier. Mon paquetage est prêt et j'aimerais bien m'engager sur une Transat retour ou tout convoyage en Europe en mars prochain.
+- Aspiring vessel captain : Je me remets à l'anglais pour préparer mentalement la formation à [l'examen du Yachtmaster Offshore](https://www.zephyr-yachting.com/courses/yachtmaster-package-antibes/).
+- Engagé jusqu'à la fin du mois de février dans le [note-making challenge organisé par Nesslabs](https://nesslabs.com/note-making-challenge). Un plaisir de me remettre à penser au calme en anglais dans une classe virtuelle. Joie d'apprendre l'élaboration de notes avec la méthode zettelkasten.
