@@ -3,6 +3,7 @@ date: '2018-10-24'
 title: '⚓ Ancré'
 tags: [emoji, navigation]
 slug: 'emoji-ancre'
+dratt: true
 ---
 
 ⚓
