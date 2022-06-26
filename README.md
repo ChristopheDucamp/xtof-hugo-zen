@@ -15,5 +15,5 @@ Amorcé sur Jekyll, migré sur [GoHugo](https://gohugo.io). Le blog c'est trop t
 - Mises à jour web depuis un iPad via le CMS Forestry 
 
 ## R&D indieweb .. NUI
-- implémentater micropub
+- implémenter micropub
 - changement de moteur (étude entre 11ty ou Blot)
