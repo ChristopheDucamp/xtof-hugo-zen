@@ -7,7 +7,7 @@ tags:
 - skipper
 ---
 
-What I'm doing as of **Sunday, June 30, 2022**
+What I'm doing as of **Thursday, June 30, 2022**
 
 Looking for the last phase of my career. I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper).
 
