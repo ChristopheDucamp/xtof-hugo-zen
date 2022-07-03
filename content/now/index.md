@@ -17,7 +17,7 @@ Looking for the last phase of my career. I wanna become a good grandfather and a
 
 ## Studying [RYA](https://ducamp.me/RYA)'s [Yachtmaster Offshore](https://ducamp.me/Yachtmaster) theory.
 * Reading RYA - "Navigation Handbook" - [Melanie Bartlett](https://ducamp.me/Melanie_Bartlett)
-* Building [flashcards](https://ducamp.me) around "Navigation Exercises" - (author = [Chris Slade](https://ducamp.me/Chris Slade))
+* Building [flashcards](https://ducamp.me) around "Navigation Exercises" - (author = [Chris Slade](https://ducamp.me/Chris_Slade))
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 
 ## Planning 2022 Q3
