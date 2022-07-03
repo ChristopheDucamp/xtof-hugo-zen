@@ -11,13 +11,14 @@ tags:
 - family
 ---
 
-What I'm doing as of **Friday, July 1st 2022**
+What I'm doing as of **Sunday, July 3rd 2022**
 
 Looking for the last phase of my career. I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper).
 
-* Studying [RYA](https://ducamp.me/RYA)'s [Yachtmaster Offshore](https://ducamp.me/Yachtmaster) theory.
-** Reading RYA - "Navigation Handbook" - [Melanie Bartlett](https://ducamp.me/Melanie_Bartlett) 
-** Building [flashcards](https://ducamp.me) around "Navigation Exercises" - (author = [Chris Slade](https://ducamp.me/Chris Slade))
+## Studying [RYA](https://ducamp.me/RYA)'s [Yachtmaster Offshore](https://ducamp.me/Yachtmaster) theory.
+* Reading RYA - "Navigation Handbook" - [Melanie Bartlett](https://ducamp.me/Melanie_Bartlett)
+* Building [flashcards](https://ducamp.me) around "Navigation Exercises" - (author = [Chris Slade](https://ducamp.me/Chris Slade))
+* [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 
 ## Planning 2022 Q3
 * July : Learning in Paris. Indieweb optimizations.  Navigation around mid-July (Portugal -> Medditerranean)
