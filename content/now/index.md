@@ -11,7 +11,7 @@ tags:
 - family
 ---
 
-What I'm doing as of **Sunday, July 3rd 2022**
+What I'm doing as of **Monday, July 4th 2022**
 
 Soon 61 and aware to live the last phase of my career. I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). Happy to be back in sailing school.
 
