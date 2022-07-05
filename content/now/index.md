@@ -1,6 +1,6 @@
 ---
 title: 
-date: 2022-07-04
+date: 2022-07-05
 tags:
 - now
 - yachtmaster
@@ -11,9 +11,13 @@ tags:
 - family
 ---
 
-What I'm doing as of **Monday, July 4th 2022**
+What I'm doing as of **Tuesday, July 5th 2022**
 
-Soon 61 and aware to live the last phase of my career. I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). Happy to be back in sailing school.
+* Aware to live the last phase of my career. 
+* I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
+
+## Monthly Expenses Report  
+* Reading [a cat's guide to money](http://anomalily.net) 
 
 ## Studying [RYA](https://ducamp.me/RYA)'s [Yachtmaster Offshore](https://ducamp.me/Yachtmaster) theory.
 * Reading RYA - "Navigation Handbook" - [Melanie Bartlett](https://ducamp.me/Melanie_Bartlett)
@@ -21,7 +25,6 @@ Soon 61 and aware to live the last phase of my career. I wanna become a good gra
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 
 ## Planning 2022 Q3
-* July : Learning in Paris. Indieweb optimizations.  Looking Navigation around mid-July (Portugal -> Medditerranean)
 * August : follow-up instruction with <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a> in Saint-Malo (France) and [Channel Islands](https://ducamp.me/Channel_Islands).
 * September : Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany)
 
