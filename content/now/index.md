@@ -17,8 +17,10 @@ What I'm doing as of **Tuesday, July 5th 2022**
 * Aware to live the last phase of my career. 
 * I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 
-## Monthly Expenses Report  
-* Reading [a cat's guide to money](http://anomalily.net) 
+## Personal Finance 
+* Intention : design a Monthly Expenses Report 
+** Trying [YNAB](https://ducamp.me/YNAB)
+** Lillian's Book : [a cat's guide to money](https://shop.ohmydollar.com/products/catsguidetomoney) 
 
 ## Studying [RYA](https://ducamp.me/RYA)'s [Yachtmaster Offshore](https://ducamp.me/Yachtmaster) theory.
 * Reading RYA - "Navigation Handbook" - [Melanie Bartlett](https://ducamp.me/Melanie_Bartlett)
