@@ -3,6 +3,7 @@ title:
 date: 2022-07-05
 tags:
 - now
+- YNAB
 - yachtmaster
 - skipper
 - student
