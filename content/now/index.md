@@ -18,7 +18,7 @@ What I'm doing as of **Tuesday, July 5th 2022**
 * I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 
 ## Personal Finance 
-* Intention : design a Monthly Expenses Report 
+* Intention : design a Monthly Expenses Report
 ** Trying [YNAB](https://ducamp.me/YNAB)
 ** Lillian's Book : [a cat's guide to money](https://shop.ohmydollar.com/products/catsguidetomoney) 
 
