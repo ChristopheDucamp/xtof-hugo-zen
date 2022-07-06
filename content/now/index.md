@@ -10,11 +10,12 @@ tags:
 - sailing
 - grandfather
 - family
+- 61
 ---
 
 What I'm doing as of **Wednesday, July 6th 2022**
 
-* Aware to live the last phase of my career. 
+* 61 today. Aware to live the last phase of my career. 
 * I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 
 <!--
