@@ -17,6 +17,7 @@ What I'm doing as of **Wednesday, July 6th 2022**
 
 * 61 today. Aware to live the last phase of my career. 
 * I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
+* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)
 
 <!--
 ## Personal Finance 
