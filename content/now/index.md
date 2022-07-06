@@ -1,5 +1,5 @@
 ---
-title: 
+title: Now
 date: 2022-07-05
 tags:
 - now
