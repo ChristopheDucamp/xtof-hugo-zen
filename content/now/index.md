@@ -12,7 +12,7 @@ tags:
 - family
 ---
 
-What I'm doing as of **Tuesday, July 5th 2022**
+What I'm doing as of **Wednesday, July 6th 2022**
 
 * Aware to live the last phase of my career. 
 * I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
