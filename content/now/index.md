@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2022-07-05
+date: 2022-07-07
 tags:
 - now
 - YNAB
