@@ -13,7 +13,7 @@ tags:
 - 61
 ---
 
-What I'm doing as of **Friday, July 8th 2022**
+What I'm doing as of **Saturday, July 9th 2022**
 
 * 61 years now. Still happy to live the last phase of my career : I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
