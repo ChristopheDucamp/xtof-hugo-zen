@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2022-07-08
+date: 2022-07-09
 tags:
 - now
 - YNAB
@@ -33,6 +33,6 @@ What I'm doing as of **Friday, July 8th 2022**
 
 |July  |August  |September  |
 |:--|:--|:--|
-|Studying RYA's theory.  [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain. | Follow-up instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany) |
+|Studying RYA's theory. [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain. | Follow-up instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany) |
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> or the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
