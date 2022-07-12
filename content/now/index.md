@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2022-07-12
+date: 2022-07-13
 tags:
 - now
 - randopolitain
@@ -14,7 +14,7 @@ tags:
 - 61
 ---
 
-What I'm doing as of **Tuesday, July 12th 2022**
+What I'm doing as of **Wednesday, July 13th 2022**
 
 * 61 years now and happy to live the last phase of my career.  wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
@@ -34,6 +34,6 @@ What I'm doing as of **Tuesday, July 12th 2022**
 
 |July  |August  |September  |
 |:--|:--|:--|
-|Studying RYA's theory while [exploring Le Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france). | Follow-up instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany) |
+|Climate change : depressed to live canicule in Paris. Time to commit. Talking about survival micro-adventures. Studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory. Refactoring and [Bricolage](https://ducamp.me/bricolage) in my flat.<!--[exploring Le Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france).--> | Follow-up instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany) |
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> or the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
