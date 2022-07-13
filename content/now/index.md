@@ -34,6 +34,6 @@ What I'm doing as of **Wednesday, July 13th 2022**
 
 |July  |August  |September  |
 |:--|:--|:--|
-|Climate change : depressed to live canicule in Paris. Time to commit. Talking about survival micro-adventures. Studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory. Refactoring and [Bricolage](https://ducamp.me/bricolage) in my flat.<!--[exploring Le Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france).--> | Follow-up instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Anjou w my family + looking up for positions North Europe (Baltic sea or Brittany) |
+|Studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory. [Bricolage](https://ducamp.me/bricolage) in my flat. | Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Navigation : looking up for positions North Europe (Baltic sea or Brittany) |
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> or the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
