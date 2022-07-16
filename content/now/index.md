@@ -34,6 +34,6 @@ What I'm doing as of **Wednesday, July 13th 2022**
 
 |July  |August  |September  |
 |:--|:--|:--|
-|Studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory. <!--[[YNAB]] > [Bricolage](https://ducamp.me/bricolage) in family's flat. -->| Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Navigation : looking up for positions North Europe (Baltic sea or Brittany) |
+|[Learning how to learn]((https://www.youtube.com/watch?v=O96fE1E-rf8) : Relaxing in Paris while studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory. <!--[[YNAB]] > [Bricolage](https://ducamp.me/bricolage) in family's flat. -->| Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Navigation : looking up for positions North Europe (Baltic sea or Brittany) |
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
