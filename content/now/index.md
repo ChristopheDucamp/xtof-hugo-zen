@@ -13,7 +13,7 @@ tags:
 
 What I'm doing as of **Friday, July 29th 2022**
 
-* 61 years and happy to live the last phase of my career. In transition, a ([liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
+* 61 years, Student in transition.  Happy to live the last phase of my career : a [liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
 
 <!--
