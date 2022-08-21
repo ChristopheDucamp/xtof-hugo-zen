@@ -30,10 +30,9 @@ What I'm doing as of **Friday, July 29th 2022**
 * Building [flashcards](https://ducamp.me/Flashcards) around "Navigation Exercises" ([Chris Slade](https://ducamp.me/Chris_Slade))
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 -->
-## Planning 2022 Q3
-
-|July  |August  |September  |
+## Planning 2022 
+ |August  |September  | October 
 |:--|:--|:--|
-| Studying [Yachtmaster](https://ducamp.me/Yachtmaster)'s theory.| Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav towards [Channel Islands](https://ducamp.me/Channel_Islands) and Scilly. | Navigation : looking up for positions North Europe (Baltic sea or Brittany) |
+| [Yachtmaster](https://ducamp.me/Yachtmaster) Daily Skipper consolidation. Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav [Channel Islands](https://ducamp.me/Channel_Islands) and Isles of Scilly. | Navigations : looking up for positions North Europe (Baltic sea or Brittany) | Yachtmaster Coastal prep - North Britany and Galice
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
