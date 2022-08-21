@@ -28,7 +28,7 @@ What I'm doing as of **Friday, July 29th 2022**
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 -->
 ## Planning 2022 
- |August  |September  | October 
+|August  |September  | October 
 |:--|:--|:--|
 | Focus on [Yachtmaster](https://ducamp.me/Yachtmaster) programme w daily skipper consolidation. Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). Nav [Channel Islands](https://ducamp.me/Channel_Islands) and Isles of Scilly. | Navigations : looking up for positions North Europe (Baltic sea or Brittany) | Yachtmaster Coastal prep - North Britany and Galice
 
