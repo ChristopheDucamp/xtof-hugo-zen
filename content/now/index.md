@@ -30,6 +30,6 @@ What I'm doing as of **Thursday, September 1st 2022**
 ## Planning 2022 
 |September  | October | November 
 |:--|:--|:--|
-| [Yachtmaster](https://ducamp.me/Yachtmaster) Costal programme. Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). | Navigations : looking up for positions North Europe (Baltic sea or Brittany) | :mù£  
+| [Yachtmaster](https://ducamp.me/Yachtmaster) Costal programme. Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). | Navigations : looking up for positions North Europe (Baltic sea or Brittany) | open
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
