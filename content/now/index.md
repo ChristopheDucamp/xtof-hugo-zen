@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2022-09-020
+date: 2022-09-20
 tags:
 - now
 - yachtmaster
