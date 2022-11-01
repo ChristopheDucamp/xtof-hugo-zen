@@ -30,6 +30,6 @@ What I'm doing as of **Wednesday, November 2nd 2022**
 ## Planning 2022 - 23
 | November | December | January
 |:--|:--|:--|
-| Studying [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore. Looking up for navigations. |  - ... | - Paris (YM's theory) 
+| Studying [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore. Looking up for navigations. |  ... |  ... 
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
