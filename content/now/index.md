@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2022-10-13
+date: 2022-11-02
 tags:
 - now
 - yachtmaster
@@ -11,7 +11,7 @@ tags:
 - family
 ---
 
-What I'm doing as of **Thursday, October 13th 2022**
+What I'm doing as of **Wednesday, November 2nd 2022**
 
 * 61 years, Student in transition.  Happy to live the last phase of my career : a [liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
@@ -27,9 +27,9 @@ What I'm doing as of **Thursday, October 13th 2022**
 * Building [flashcards](https://ducamp.me/Flashcards) around "Navigation Exercises" ([Chris Slade](https://ducamp.me/Chris_Slade))
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 -->
-## Planning 2022 
-| October | November | December 
+## Planning 2022 - 23
+| November | December | January
 |:--|:--|:--|
-| [Yachtmaster](https://ducamp.me/Yachtmaster) Coastal + Offshore programme. Instruction on <a rel='muse friend met' href="https://sail-master-training.com">Nicolas Joubert (sail-master-training)</a>'s sailing boat in Saint-Malo (France). | Navigations : looking up for positions North Europe (Baltic sea or Brittany) | Paris (YM's theory) 
+| Studying [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore. Looking up for navigations. |  - ... | - Paris (YM's theory) 
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
