@@ -31,6 +31,6 @@ What I'm doing as of **Friday, Decembre 15th 2022**
 ## Planning 2023
 | February | March | April | May | June
 |:--|:--|:--|:--|:--|
-| Studying photography & learning spanish from scratch  | - | -| - | ⛵️ [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore - Exam in Saint Malo 
+| Atelier des Beaux-Arts de Paris photography w [Regina](https://ducamp.me/Regina_Virserius) | - | -| - | ⛵️ [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore - Exam in Saint Malo 
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
