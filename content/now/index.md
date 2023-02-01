@@ -1,12 +1,13 @@
 ---
 title: What I'm doing now
-date: 2022-12-15
+date: 2023-01-01
 tags:
 - now
 - yachtmaster
 - skipper
 - student
 - sailing
+- photography
 - grandfather
 - family
 ---
@@ -28,8 +29,8 @@ What I'm doing as of **Friday, Decembre 15th 2022**
 * [Exploring the map of Grand Paris](https://www.enlargeyourparis.fr/balades/le-randopolitain-sentiers-grande-randonnee-en-ile-de-france) with the Randopolitain.
 -->
 ## Planning 2023
-| January | February | March
-|:--|:--|:--|
-| Studying [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore.  | -  |  ⛵️ Exam in Saint Malo 
+| February | March | April | May | June
+|:--|:--|:--|:--|:--|
+| Studying photography & learning spanish from scratch  | - | -| - | ⛵️ [Yachtmaster](https://ducamp.me/Yachtmaster) Offshore - Exam in Saint Malo 
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
