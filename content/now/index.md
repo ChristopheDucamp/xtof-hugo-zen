@@ -12,7 +12,7 @@ tags:
 - family
 ---
 
-What I'm doing as of **Friday, Decembre 15th 2022**
+What I'm doing as of **Wednesday, February 1st 2023**
 
 * 61 years, Student in transition. Happy to live the last phase of my career : a [liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good grandfather and a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
