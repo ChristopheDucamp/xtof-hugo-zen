@@ -19,7 +19,7 @@ What I'm doing as of **Wednesday, June 14th 2023**
 
 ## Planning 2023
 
-| June |July | August | Septembre
+| June |July | August | September
 |:--|:--|:--|:--|
 |⛵️ | ⛵️ | ⛵️ | ⛵️ 
 
