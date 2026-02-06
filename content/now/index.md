@@ -1,26 +1,21 @@
 ---
 title: What I'm doing now
-date: 2024-11-13
+date: 2026-02-06
 tags:
 - now
-- yachtmaster
-- skipper
-- student
-- sailing
-- photography
 - grandfather
 - family
 ---
 
-What I'm doing as of **Wednesday, November 13 2024**
+What I'm doing as of **Friday, February 06 2026**
 
-* 63 years, Retired. Student in transition. Happy to live the last phase of my career : a [liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good lover, father, grandfather and... a [professional skipper](https://ducamp.me/Sea_captain#Skipper). 
+* 64 years, Retired. Student in transition. Happy to live the last phase of my career : a [liminal creativity](https://nesslabs.com/liminal-creativity) slot where I wanna become a good lover, father, grandfather...
 <!--* Now page details updated on  [https://nownownow.com/p/LiG6](https://nownownow.com/p/LiG6)-->
 
 ## Planning 
 
-| November | December | January | February
+| February | March | Avril 
 |:--|:--|:--|:--|
-| 🌳 FR | 🌳 Colombia | 🌳 Argentina | 🌳 FR
+| 🌳 Vietnam | 🌳 FR | ⛵️🌳 FR
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
