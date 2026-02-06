@@ -15,7 +15,7 @@ What I'm doing as of **Friday, February 06 2026**
 ## Planning 
 
 | February | March | Avril 
-|:--|:--|:--|:--|
+|:--|:--|:--|
 | 🌳 Vietnam | 🌳 FR | ⛵️🌳 FR
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
