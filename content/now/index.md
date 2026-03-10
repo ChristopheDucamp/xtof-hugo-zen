@@ -15,7 +15,7 @@ What I'm doing as of **Tuesday, March 10th 2026**
 ## Planning 
 
 | March | Avril | May | June |
-|:--|:--|:--|
+|:--|:--|:--|:--|
 | 🌳  | 🌳 FR | ⛵️🌳 | ⛵️🌳 |
 
 (Thanks to <a rel='muse' href='https://sive.rs'>Derek Sivers</a> for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
